@@ -1,0 +1,34 @@
+name: "Add a new company"
+description: "Create a review dataset of a new company"
+title: "[ENH] - <title>"
+labels: ["type: enhancement"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hi! Thanks for using the dataset and taking some time to express desire in dataset of a new company.
+
+  - type: textarea
+    attributes:
+      label: Company Name
+      description: |
+        Mention the name of the company and what the company is about.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Dataset size
+      description: |
+        What is the dataset size that you are looking for? Check the number of review pages available for the company.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the company!
+    validations:
+      required: false

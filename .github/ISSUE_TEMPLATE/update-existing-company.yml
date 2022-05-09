@@ -1,0 +1,26 @@
+name: "Update dataset for an existing company"
+description: "Update the review dataset of an existing company"
+title: "[ENH] - <title>"
+labels: ["type: enhancement"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hi! Thanks for using the dataset and taking some time to express desire in updating the dataset of an existing company.
+
+  - type: textarea
+    attributes:
+      label: Company Name
+      description: |
+        Mention the name of the company whose dataset is to be updated.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the company!
+    validations:
+      required: false

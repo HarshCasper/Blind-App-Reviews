@@ -1,0 +1,46 @@
+name: "Bug report \U0001F41B"
+description: "Create a report to help us improve"
+title: "[BUG] - <title>"
+labels: ["type: bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hi! Thanks for using the dataset and taking some time to report a bug in the dataset!
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: |
+        A clear and concise description of what you expected to happen.
+        We suggest using bullets (indicated by * or -) here.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: |
+        A clear and concise description of what the bug is.
+        We suggest using bullets (indicated by * or -) here.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: How to Reproduce the problem?
+      description: |
+        Please provide steps to reproduce this bug.
+        Please use numbered list items.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the issue you are encountering!
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
