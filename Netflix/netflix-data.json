@@ -1,0 +1,2308 @@
+{
+	"_default": {
+		"1": {
+			"rating": "3.0",
+			"desc": " Meh ",
+			"pros": "Great comp and colleagues. Positive, open culture. Nice digs. ",
+			"cons": "Lacks key business foundations. Lots of F&R, too little accountability.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*****  Engineer - May 4, 2022 "
+		},
+		"2": {
+			"rating": "5.0",
+			"desc": " Company for adults ",
+			"pros": "If you want to be treated as an adult and make decisions like an adult, this company is for you. ",
+			"cons": "Due to the Freedom & Responsibility culture (which is great) there is often times a lot of grey area, which unfortunately means that even sister teams can be wildly different from one another - one team can be great, another team can be meh, mostly due to the manager.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  J**  Senior Software Engineer - May 4, 2022 "
+		},
+		"3": {
+			"rating": "3.0",
+			"desc": " Going down on all cylinders  ",
+			"pros": "Top compensation Good wlb, but recently started to decline, more pressure Remote work",
+			"cons": "Culture is goneManagement came from AmazonLess freedom and more responsibilities Boring tasks, lack of innovation Absence of career growth at all",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  M*****  Senior Software Engineer - May 3, 2022 "
+		},
+		"4": {
+			"rating": "3.0",
+			"desc": " Poor middle manager ",
+			"pros": "Good work life balance , good compensation and benefits and autonomy ",
+			"cons": "Manager have too much power over IC without any check and balances , highly political and toxic ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s********  Software Applications Engineer - May 2, 2022 "
+		},
+		"5": {
+			"rating": "5.0",
+			"desc": " Best company I\u2019ve ever worked for. I\u2019ve never been more valued. ",
+			"pros": "High level of transparency from leadership, top of market salary, work/life balance ",
+			"cons": "High pressure environment, high expectations, while it\u2019s a hybrid schedule, return to office is a non-negotiable in most departments",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  J*******  Talent Acquisition - May 1, 2022 "
+		},
+		"6": {
+			"rating": "2.0",
+			"desc": " Changing culture  ",
+			"pros": "Excellent compReally smart colleagues Unlimited PTO and flexible work schedule ",
+			"cons": "Recent events are starting to erode our culture at shockingly high speed. It\u2019s very disappointing. Too much work burden on small under resourced teams. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u*****  Senior Researcher - Apr 30, 2022 "
+		},
+		"7": {
+			"rating": "5.0",
+			"desc": " Top of market all cash comp and unmatched autonomy  ",
+			"pros": "Freedom and responsibility (autonomy) and top of market all cash compensation ",
+			"cons": "Levels are being implemented. Not sure how this will impact company culture. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  i********  Senior Technical Recruiter - Apr 30, 2022 "
+		},
+		"8": {
+			"rating": "3.0",
+			"desc": " Changing Landscapes  ",
+			"pros": "Unbelievable cash compGood WLBGood people to work with",
+			"cons": "Mid management heavyBurning cashToo much focus on I&D",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*****  Senior Software Engineer - Apr 29, 2022 "
+		},
+		"9": {
+			"rating": "4.0",
+			"desc": " Great work life balance ",
+			"pros": "Great compensation, work life balance and culture. Tons of freedom.",
+			"cons": "Little to no career growth, tons of bloat in middle management",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  _**  Senior Software Engineer - Apr 29, 2022 "
+		},
+		"10": {
+			"rating": "2.0",
+			"desc": " Unmatched salary and benefits ",
+			"pros": "salary and benefits, work not drive, brand name, food and snacks",
+			"cons": "Culture, Expressing eliteness, fear of losing job, fake camaraderie, ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*****  Business & Systems Integration Analyst - Apr 29, 2022 "
+		},
+		"11": {
+			"rating": "3.0",
+			"desc": " . ",
+			"pros": "Wonderful, intelligent colleagues who are truly the best in their class.",
+			"cons": "Confusing applications of the culture memo that can lead to an inequitable culture.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  R*****  Human Resources - Apr 28, 2022 "
+		},
+		"12": {
+			"rating": "3.0",
+			"desc": " Opportunities are abound, you just have to take them ",
+			"pros": "When F&R is working, there is nothing stopping you from doing your best work. The content not control model is what I will expect everywhere else I go, it's best way of treating adults as adults. There are some amazing managers/director, all of which I would work for again.",
+			"cons": "Culture has not shifted to remote well at all, the document culture has taken over to the point where it is hard to get work done. Before there were levels, it was almost impossible to grow into a Staff/Principal role.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  e*****  Senior Software Engineer - Apr 27, 2022 "
+		},
+		"13": {
+			"rating": "1.0",
+			"desc": " Many changes in the culture in 2022 transformed the company into something disappointing. ",
+			"pros": "Good TC and WLB ratio but not top of market anymore.",
+			"cons": "Severance package doesn't not kick in, levels for eng, lot of decisions without analysis or explanation, lack of global corporate goals, no diversification of products, mixed bag of teammates, no career growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m******  Engineer - Apr 26, 2022 "
+		},
+		"14": {
+			"rating": "3.0",
+			"desc": " Good base compensation. Good office perks ",
+			"pros": "15% top of the  market salary. Great office location and perks ",
+			"cons": "Culture subject to interpretation. A bit hypocrite after the years ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  UX Designer I - Apr 26, 2022 "
+		},
+		"15": {
+			"rating": "5.0",
+			"desc": " Great coworkers, great culture ",
+			"pros": "Average level of talent is high.Problems to solve are challenging.Not too many cooks in the kitchen.Executives are world-class.Culture is unique.",
+			"cons": "Talent density is diminishing over time.You won't join for career growth.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Software Engineer - Apr 24, 2022 "
+		},
+		"16": {
+			"rating": "5.0",
+			"desc": " Comp & Culture! Top-quality. ",
+			"pros": "* Being surrounded by top talent in every sphere of the work \u2014 there is no room for dead weight or average performance. This also means there\u2019s an endless wealth of learning opportunities at every level, and it\u2019s not uncommon to find yourself having lunch with someone who you later learn is a leading global authority in their field.* Minimal bureaucracy, with highly agile and empowered teams across the board.* Hierarchy is far less material than most companies \u2014 colleagues at all levels of authority are typically eager to listen to and learn from others at different levels.",
+			"cons": "* At scale, many of the most desirable cultural aspects (high autonomy, agility, all-senior level staffing) will be / are fading as the company matures into a more traditional corporate atmosphere.* The best aspects of the culture are understood and applied variously across org\u2019s \u2014 while autonomy, feedback, tech savvy, and top-of-market pay are all rigorously aligned, debated, and enforced in most of Engineering for example, their implementation in areas like Customer Service is poor by comparison and more closely mirrors banal, generic American companies.* Pressure to over-perform can be high, though mostly self inflicted. Most of Netflix is comprised of exceptionally high performers who naturally have high expectations for themselves. The scales of performance are not like other environments you may be used to, so it\u2019s easy to be too self-critical or push yourself harder than is healthy or necessary. Take a break!* As corporatocracy continues to take hold of the famous (infamous?) Netflix culture of \u2018No Rules, Rules\u2019 and budget constraints become tangible for the first time, employees will have less leverage to self-advocate for personal growth and accomplishment, and role mobility is rapidly decreasing.",
+			"resignation reason": "Following a reorganization, my team charter was diverted towards a less technical role trajectory that I had no interest in participating in. I was also poorly compensated due to low tech-familiarity of our new organizational leadership.",
+			"authorInfo": "Verified User  Former Employee  s******  Senior DevOps Engineer - Apr 23, 2022 "
+		},
+		"17": {
+			"rating": "4.0",
+			"desc": " Top of market comp, great work life balance, and a brand to be proud of. ",
+			"pros": "Top of market+ comp, great work life balance, and brand you are proud to work for.",
+			"cons": "It takes forever to get anything done, because people spend too much time talking about the culture. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*****  Senior Software Engineer - Apr 19, 2022 "
+		},
+		"18": {
+			"rating": "5.0",
+			"desc": " Great comp and WLB, less growth potential ",
+			"pros": "Comp has and always will be top of market. Work/life balance is great on my team but can vary depending on where you end up.",
+			"cons": "Career growth is harder, lots of people competing for few management roles and it\u2019s often about being in the right time, the right place, with the right favor from the right people.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  M****  Senior Software Engineer - Apr 19, 2022 "
+		},
+		"19": {
+			"rating": "5.0",
+			"desc": " Good work life balance, given many opportunities to challenge/learn and grow career ",
+			"pros": "Challenging environment, smart + very capable coworkers, failure is tolerated as long as you learn and grow from it, good feedback culture",
+			"cons": "Growth paths are not as explicitly defined as other companies",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D*****  Program Manager - Apr 18, 2022 "
+		},
+		"20": {
+			"rating": "5.0",
+			"desc": " Great work and culture  ",
+			"pros": "Good teammates, work, roadmap and engineering practices overall in the company. ",
+			"cons": "No many cons except that there are limited products owned and hence fewer opportunities to switch teams ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*****  Software Engineer IV - Apr 18, 2022 "
+		},
+		"21": {
+			"rating": "5.0",
+			"desc": " Stunning colleagues ",
+			"pros": "You'd work with really excellent people, who are senior and have a lot to learn from.Compensation is great. Freedom to choose how much in stocks vs cash.",
+			"cons": "Lots of over engineering. Managers arent technical so don't have a say on architectural directions. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s*****  Senior Software Engineer - Apr 14, 2022 "
+		},
+		"22": {
+			"rating": "3.0",
+			"desc": " Great work life balance ",
+			"pros": "WLB and compensation are good. Folks truly live by the culture.",
+			"cons": "Managers have way too much power in their hands. That can result in uncomfortable situations.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  a*****  Software Engineer - Apr 14, 2022 "
+		},
+		"23": {
+			"rating": "5.0",
+			"desc": " Great Company and Culture ",
+			"pros": "Excellent culture where giving feedback never feels unnatural. Tons of trust placed in our employees, not very political, and I bet nearly every employee has up-leveled themselves and grown as a result of being here. Level-less hierarchy (until now) has been fantastic. This is also the only company I\u2019ve worked at where teams are made up of genuinely diverse and brilliant people. ",
+			"cons": "On the brink of the biggest change Netflix has ever been through as a company, introducing engineering levels. So far it seems like decisions are made in a vacuum by leadership and opportunities for feedback/dissent haven\u2019t felt like they are there (hence the 3 stars in my review. I still love Netflix, but it feels like we are losing one of the major differentiators that has set Netflix apart from other companies over the years. If done right this will introduce more growth paths for engineers, but so far I feel skeptical about the way eng leadership has solicited broad feedback in these discussions. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*********  Senior Software Engineer - Apr 13, 2022 "
+		},
+		"24": {
+			"rating": "4.0",
+			"desc": " Work life balance, not very challenging work left ",
+			"pros": "Great culture, upper management does lean into context often and not control",
+			"cons": "Limited growth Opportunities, not many hard problems left to solve",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m******  Product Manager - Apr 13, 2022 "
+		},
+		"25": {
+			"rating": "5.0",
+			"desc": " it\u2019s nice  ",
+			"pros": "it\u2019s nice to be here, people are stunning colleagues here",
+			"cons": "no too down structure, can be a con for some people",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D********  Senior Engineer - Apr 8, 2022 "
+		},
+		"26": {
+			"rating": "4.0",
+			"desc": " Excellent co-workers and a company with less bureaucracy. ",
+			"pros": "- Excellent coworkers.- Excellent pay and perks.- F&R can do amazing things.- Transparency at its best. Open culture.- Less distractions to get things done.",
+			"cons": "- In some orgs, mid-level leadership is very disappointing.- Feedback culture is declining. - Keeper test is no more a thing in some orgs.- F&R is a double edged sword. People reinvent the wheel to show impact. ",
+			"resignation reason": "I was not enjoying my work anymore. Everything else besides that worked out great. (I didn't explore other teams).",
+			"authorInfo": "Verified User  Former Employee  S*****  Senior Software Engineer - Apr 7, 2022 "
+		},
+		"27": {
+			"rating": "5.0",
+			"desc": " Unique culture ",
+			"pros": "Netflix culture values ring true.   Not for everybody. Very competitive comp, all cash",
+			"cons": "Easier to get fired than at most companies.  Employees usually see it coming. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  G*****  Product Manager - Apr 6, 2022 "
+		},
+		"28": {
+			"rating": "4.0",
+			"desc": " Freedom for making big decisions  ",
+			"pros": "Product is greatCompensation is greatOffices are greatPerks  are great ",
+			"cons": "Culture is changingPolitics for visibilityCompetition is hurting the business ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  G*****  Senior Software Engineer - Platform - Apr 5, 2022 "
+		},
+		"29": {
+			"rating": "4.0",
+			"desc": " Good if you know what you\u2019re getting into ",
+			"pros": "Benefits, upside for impact, interesting work, and genuinely really passionate and driven colleagues ",
+			"cons": "Quality varies team by team and lead by lead. Your success really depends on the relationships you make ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*********  Recruiter - Apr 5, 2022 "
+		},
+		"30": {
+			"rating": "1.0",
+			"desc": " Bad wlb and mental health with great pay ",
+			"pros": "Compensation is HighInnovative culture prior to 2020Smart colleagues",
+			"cons": "Bad work life balanceTop down culturePolitics No job security",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*****  Engineer - Apr 4, 2022 "
+		},
+		"31": {
+			"rating": "5.0",
+			"desc": " Get things done, make your own decisions ",
+			"pros": "Transitioned to NF from a more traditional company and love how quickly you can move a project or decision forward. Most everyone I\u2019ve worked with at NF is very proud to be there and holds themselves to deliver good work",
+			"cons": "Lean teams usually mean individuals in some less mature orgs can\u2019t truly take time off ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Operations Manager - Apr 4, 2022 "
+		},
+		"32": {
+			"rating": "5.0",
+			"desc": " Great pay and work life balance ",
+			"pros": "Pay is amazing and work life balance is great for sure.",
+			"cons": "There is Not much chance for skill growth except management.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*****  Senior Software Engineer - Apr 3, 2022 "
+		},
+		"33": {
+			"rating": "5.0",
+			"desc": " Still the industry leader in the ever intense streaming war ",
+			"pros": "Love my team! Top of market pay. Superb benefits. Industry leader.",
+			"cons": "Intensifying competition and slowed growth. More uncertainty than when I started 3 years ago.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Finance - Apr 2, 2022 "
+		},
+		"34": {
+			"rating": "1.0",
+			"desc": " Bad ",
+			"pros": "Bad bad bad not good sad poor bad company so baf",
+			"cons": "Bad thing is bad no good growth no good no bad so bad shame",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  e******  UX Designer - Apr 1, 2022 "
+		},
+		"35": {
+			"rating": "4.0",
+			"desc": " Great compensation and benefits, work life balance is team dependent  ",
+			"pros": "Compensation and benefits, exciting environment, great office location, impactful work",
+			"cons": "Work life balance can be challenging, but depends on the team you are working for",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Strategy Associate - Mar 31, 2022 "
+		},
+		"36": {
+			"rating": "4.0",
+			"desc": " Great working environment  ",
+			"pros": "Friendly team and self development always talk about org culture",
+			"cons": "Orgs constantly restructuring and it can be randomized but that comes with trying new things",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p******  Finance - Mar 31, 2022 "
+		},
+		"37": {
+			"rating": "5.0",
+			"desc": " Love it here ",
+			"pros": "Mature and wildly smart colleagues, healthy respect for work/life balanceUh",
+			"cons": "Unless you want to be a people manager, growth is fuzzy",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h*******  Product Designer - Mar 30, 2022 "
+		},
+		"38": {
+			"rating": "3.0",
+			"desc": " Changing culture  ",
+			"pros": "Amazing coworkers! Some of the best you will find in tech. ",
+			"cons": "Changing culture. Company is at a fork in the road and it will be interesting to see which way they go. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  C*****  Engineer - Mar 29, 2022 "
+		},
+		"39": {
+			"rating": "5.0",
+			"desc": " Great teammates and culture  ",
+			"pros": "High talent density. Peers are all great in what they do ",
+			"cons": "Lack of IC growth path. Not so consistent management/leadership and things happen organically rather than intentionally planned ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  Engineer - Mar 28, 2022 "
+		},
+		"40": {
+			"rating": "4.0",
+			"desc": " Top of market pay, excellent infrastructure and scale ",
+			"pros": "Best pay in industry for L5Most ICs are very technically excellentTransparent feedback",
+			"cons": "Culture slowly changing for the worseUpper management are C players",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  z***  Senior Software Engineer - Mar 21, 2022 "
+		},
+		"41": {
+			"rating": "5.0",
+			"desc": " Working with top performers at an intense culture  ",
+			"pros": "Top notch pay/benefitsCulture- no rules rules!Dream team employees",
+			"cons": "Starting to do cost-cuttingRecent hires aren\u2019t necessarily dream team material",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  N*****  Learning and Development - Mar 19, 2022 "
+		},
+		"42": {
+			"rating": "4.0",
+			"desc": " Great team, culture is good for my function & impactful work ",
+			"pros": "Good benefits & compensationGreat teamEmpowered to make decisionsSupported",
+			"cons": "Fast pace, work never ends. Not a place for someone looking to chill. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m********  Facilities Coordinator - Mar 19, 2022 "
+		},
+		"43": {
+			"rating": "4.0",
+			"desc": " Great culture ",
+			"pros": "Web, leadership, cool company, good mix of entertainment and tech",
+			"cons": "Transitioning from a medium to large company brings growing pains",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D*****  UX Design Manager - Mar 16, 2022 "
+		},
+		"44": {
+			"rating": "4.0",
+			"desc": " great pay but no growth opportunities ",
+			"pros": "great paystunning colleagueswork life balance as you manage",
+			"cons": "limited growth opportunities culture isnt working as the company sizw growsfailing business",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t*****  Manager Global Marketing Analytics - Mar 12, 2022 "
+		},
+		"45": {
+			"rating": "2.0",
+			"desc": " Absolute Hell ",
+			"pros": "Benefits and pay are top of market (free meals, nice office, cool swag, amazing equipment) but they're not enough to keep motivated in such a chaotic environment.",
+			"cons": "Working here is absolute hell. 100% the most toxic, dated and chaotic environment I've ever been in.The reorganization of the department has people in roles they have no business being in (e.g. Photo Editors turned into Strategists, Strategists turned into Producers).You're also not allowed autonomy in your role without the input of a million people on the team. Insane micromanagement at each step, veiled as feedback. No training or documentation are in existence for any of their workflows. The little training I did receive was irrelevant to the day-to-day of my role. Forget trying to plan anything across projects because they don't work from timelines (my entire job). Their project management tooling is non-existent. Communication with other departments is fragmented at best.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  X******  Project Manager - Mar 7, 2022 "
+		},
+		"46": {
+			"rating": "5.0",
+			"desc": " Quality of work ",
+			"pros": "Trust & ResponsibilityHigh caliber colleaguesEmployees and their families are really taken care off",
+			"cons": "IC progression is not done with deliberation, this can be both good and bad.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Senior Software Engineer - Mar 6, 2022 "
+		},
+		"47": {
+			"rating": "3.0",
+			"desc": " Great place to work but no career growth ",
+			"pros": "Nice colleagues , good work life balance, get to work on interesting projects",
+			"cons": "No growth path no conversations around growth or career progression",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  O*****  Software Engineer - Mar 3, 2022 "
+		},
+		"48": {
+			"rating": "5.0",
+			"desc": " Great benefits and work life balance  ",
+			"pros": "Amazing team and benefits. I like they\u2019re more open to remote employees.",
+			"cons": "No levels, so at times can be confusing to outside candidates. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c*******  Recruiter - Feb 28, 2022 "
+		},
+		"49": {
+			"rating": "4.0",
+			"desc": " great compensation/ benefits ",
+			"pros": "great compensation and culture of freedom and responsibilities are great",
+			"cons": "work life balance is not too great . . ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r*****  Finance Associate - Feb 24, 2022 "
+		},
+		"50": {
+			"rating": "4.0",
+			"desc": " Great Company Culture ",
+			"pros": "The Culture Deck is true. People live and breathe the culture. Happy to see politics do not play a big role as in other tech companies. Also good to see compensation being updated based on top of market.",
+			"cons": "Career development is unclear. Seems like networking and visibility play a big part as having impact and providing results is not enough. In general, growth is slow (at best). Moreover, frequent re-orgs makes you feel like leadership doesn't have a clear idea of strategy and follows a trial and error approach.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  B*****  Manager - Overseas Finance - Feb 24, 2022 "
+		},
+		"51": {
+			"rating": "5.0",
+			"desc": " Great company to work for ",
+			"pros": "Great flexibility in the work.Helpful and humble coworkers.Culture geared towards performance based.Adequate openness and transparency compared to other Silicon Valley companies.Compensation is amazing and personal top.",
+			"cons": "Though there are many opportunities for growing personal expertise, it is not for employees purely seeking rapid growth in their official title.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*****  Engineer - Feb 21, 2022 "
+		},
+		"52": {
+			"rating": "4.0",
+			"desc": " Solid WLB, responsible coworkers, but not super efficient ",
+			"pros": "Fantastic comp if you actually have a high top of market, they\u2019ll pay it. Lots of freedom, and people are generally very responsible, taking ownership of things on their own.",
+			"cons": " In many places inefficient and a little disorganized. Sometimes at least in our team I feel we have too little process \u2014 sometimes light process can be useful. A lot of not invented here syndrome, building infra for the sake of it. Lots of meetings and a culture of needing face time with people to get anything done, and the meeetings aren\u2019t super efficient.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Engineering Manager - Feb 4, 2022 "
+		},
+		"53": {
+			"rating": "5.0",
+			"desc": " Good ",
+			"pros": "Good payLess lazy people Not a place to be lazy",
+			"cons": "Little Work life balance.  It would be great having company holidays",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*****  DevOps Engineer - Feb 2, 2022 "
+		},
+		"54": {
+			"rating": "5.0",
+			"desc": " Great culture ",
+			"pros": "Great culture, great benefit. Freedom and responsibility. Great teammate. Yeah",
+			"cons": "Not so much. See some area not totally align with culture though",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  V*****  Senior Software Developer - Feb 1, 2022 "
+		},
+		"55": {
+			"rating": "5.0",
+			"desc": " Great company overall ",
+			"pros": "career growth and opportunities .food in office and new offices. ",
+			"cons": "Constant change. Nothing ever stays the same for more than a month. You'll find yourself pouring yourself into a project, and then the direction of it will change rather quickly. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  S*****  Administrative Assistant - Jan 28, 2022 "
+		},
+		"56": {
+			"rating": "2.0",
+			"desc": " culture aspires without achieving ",
+			"pros": "the compensation is typically mostly cash, which removes liquidity risk",
+			"cons": "weak/inexperienced management at team level; tech decisions across org lack cohesive vision; lack of domain expertise in managementsingle product company unlikely to continue to monopolize svod market, recent months bled a lot of talent and culture is diluted by newcomers",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  U*****  Software Engineer - Jan 25, 2022 "
+		},
+		"57": {
+			"rating": "4.0",
+			"desc": " Solid tech, unclear strategy ",
+			"pros": "It\u2019s Netflix, there\u2019s not much to say. Formerly top tier tech, but streaming is a solved problem now so it\u2019s unclear what the engineering future is. ",
+			"cons": "Same as above really, content is king now at this point. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*****  Software Engineer - Jan 24, 2022 "
+		},
+		"58": {
+			"rating": "5.0",
+			"desc": " Good company ",
+			"pros": "Freedom to choose projects and make impact, able to grow fast because of independence",
+			"cons": "Lack tech stack, a lot of manual process, not able to drive impact easily",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Data Analyst - Jan 24, 2022 "
+		},
+		"59": {
+			"rating": "5.0",
+			"desc": " Great company, great wlb and pay ",
+			"pros": "good pay, wlb, freedom. You can do whatever you need to get your job done.",
+			"cons": "not much career growth. Not much opportunity to go up",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n********  Senior Software Engineer - Jan 22, 2022 "
+		},
+		"60": {
+			"rating": "3.0",
+			"desc": " Good for stability, bad for growth ",
+			"pros": "Contrary to popular perception, very stable with long tenures.  Comp is good though not top of market.  WLB can be good depending on team.  Freedom to choose and pursue projects is high.",
+			"cons": "Managers are often technically strong but can have poor people skills, which tracks because they were often good ICs before mgmt switch.  Like any company, bad managers lead to a bad experience, which is exacerbated at Netflix.  Growth is about self-improvement and personal satisfaction because there are no levels to be climbed, few management openings with long-tenured ICs in line for them anyway.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Senior Research Engineer - Jan 20, 2022 "
+		},
+		"61": {
+			"rating": "4.0",
+			"desc": " Great work life balance.  ",
+			"pros": "Smart people Autonomy aka Freedom & Responsibility Compensation, especially options (do the math)",
+			"cons": "Food not as good as a LinkedIn et alOptions are inferior to RSUs unless you expect 25%+ stock price rise. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  N*********  Senior Software Engineer - Platform - Jan 18, 2022 "
+		},
+		"62": {
+			"rating": "5.0",
+			"desc": " \u2b06\ufe0f  comp, wlb, products  ",
+			"pros": "Quality wlb, top of market pay, and transparent leadership culture. ",
+			"cons": "Matured product lines. Slow to medium execution cycles. Limited product innovation. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n******  Product Designer - Jan 18, 2022 "
+		},
+		"63": {
+			"rating": "4.0",
+			"desc": " Right balance for senior engineers ",
+			"pros": "As someone who has grinded at startups for decades and now has a mortgage and children, Netflix is the perfect place to utilize the skills and experience I've built up over the years.  I can immediately be effective and contribute, while making industry leading comp to catch up from all the lost personal revenue at failed startups, and also have time to hang out with the children.Many colleagues are competent and the product is mostly solid. ",
+			"cons": "The company is large, so there is now room for less valuable employees to survive in the shadows for a long time without contributing anything.  Sometimes management seems disconnected from what's happening at the individual contributor level.  Sometimes it feels like the engineering group, once the core of the company, is now being ignored in favor of the studio.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*********  Senior Software Engineer - Jan 18, 2022 "
+		},
+		"64": {
+			"rating": "4.0",
+			"desc": " Informed Captain for IC role ",
+			"pros": "As an IC, you are given lots of freedom and trust to own and drive project. People around you are helpful.",
+			"cons": "Great for people in their early/mid career. People can get stuck at their own role if you aren\u2019t mindful.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*******  Software Engineer - Jan 17, 2022 "
+		},
+		"65": {
+			"rating": "5.0",
+			"desc": " Stellar colleagues  ",
+			"pros": "Great coworkersTop of the market compInteresting problems to work ",
+			"cons": "Career development is unclearSome teams lack wlb Culture is changing due to hiring from studios and less than stellar colleagues holding on to their jobs ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  X*****  Product Manager - Jan 13, 2022 "
+		},
+		"66": {
+			"rating": "5.0",
+			"desc": " Enjoying my time at Netflix ",
+			"pros": "Freedom to navigate with high level contextGood compenstion and benefits",
+			"cons": "Stressful to show impact always given high freedom and responsibility",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u*****  Senior Software Development Engineer - Jan 12, 2022 "
+		},
+		"67": {
+			"rating": "5.0",
+			"desc": " Cool place ",
+			"pros": "Live up with the culture memo. Top of the market comp. Lots of freedom. Also remote friendly. ",
+			"cons": "Lots of talent drain lately. Management is sort of average. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*****  Senior Software Engineer - Jan 7, 2022 "
+		},
+		"68": {
+			"rating": "4.0",
+			"desc": " Great company with some drawbacks  ",
+			"pros": "A lot of what you read in the culture memo is real. Lots of autonomy. You are empowered to make decisions. Fairly flat organization. All cash compensation.  I\u2019ve been able to do things in 3 years at Netflix that would have taken an entire career to do elsewhere.  ",
+			"cons": "Things are changing. Some aspects of culture aren\u2019t as strong as it used to be. Less feedback happening, more typical work politics creeping in. As Netflix surpasses 10k employees, there seems to be a desire to regress to the mean and be like other companies. While those structures and processes look appealing for some, I fear it will kill the unique environment at Netflix. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  i*****  Technology Lead - Jan 1, 2022 "
+		},
+		"69": {
+			"rating": "4.0",
+			"desc": " TOM and great WLB. No growth. ",
+			"pros": "Top of market and great work life balance. Hard to beat the cash and free time.",
+			"cons": "Careers die here. No chance of professional or personal improvement.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Senior Software Engineer - Jan 1, 2022 "
+		},
+		"70": {
+			"rating": "5.0",
+			"desc": " Good compensation ",
+			"pros": "Culture is good, OK compensation, freedom to choose the work ",
+			"cons": "Not good Work life balance, compensation would have been better ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  Senior Software Engineer - Dec 31, 2021 "
+		},
+		"71": {
+			"rating": "5.0",
+			"desc": " Great culture, super smart people, interesting challenges to work ",
+			"pros": "Culture is great truly allowing for freedom, transparency and candor",
+			"cons": "Limited growth if you are interested in moving up vertically and having large teams",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  B********  UX Designer - Dec 31, 2021 "
+		},
+		"72": {
+			"rating": "4.0",
+			"desc": " Really a great studio with a tech team ",
+			"pros": "Great autonomy and ability to move projects along Good comp and perks Exceptional transparency - from seeing all salaries to investor letters Morally sound especially in todays tech environment ",
+			"cons": "Terrible tooling and dashboardsLimited innovation and risk taking - most projects are incremental optimisationsNo official processes but lots of firewalls to make decisions Heavy on meetings and 1-1s, can be very expensive moving ideas along Most folks are home grown with limited experience in big tech ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  \ud83e\udd91****  Director, Product Management - Dec 26, 2021 "
+		},
+		"73": {
+			"rating": "4.0",
+			"desc": " Great wlb decent comp smart people ",
+			"pros": "Great culture lots of information to learn , open and easy to collaborate",
+			"cons": "Limited growth due to not having engineering levels. No RSU",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  F*****  Engineer - Dec 14, 2021 "
+		},
+		"74": {
+			"rating": "5.0",
+			"desc": " Love the culture and team spirit  ",
+			"pros": "Great freedom to work on exciting and hard problems, with high impact. ",
+			"cons": "High level of responsibility. Flat hierarchy sometimes feel you are not moving upwards in your career. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*****  Senior Software Engineer - Dec 12, 2021 "
+		},
+		"75": {
+			"rating": "5.0",
+			"desc": " WLB is amazing but growth limited ",
+			"pros": "WLBComp, when considered most don't work 40hrsEngineers are strong",
+			"cons": "Growth - you'll come in great but most get stuck in IC while you watch incompetent external manager hires Too many managers (vp, even directors) that seem to contribute absolutely nothing",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*******  Senior Software Engineer - Dec 4, 2021 "
+		},
+		"76": {
+			"rating": "1.0",
+			"desc": " You sell your soul ",
+			"pros": "All cash compensation that\u2019s higher than most places, that\u2019s about it",
+			"cons": "Almost everything else is bad. Cutthroat culture, extremely political, subpar engineers and tech stack. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  6*****  Senior Software Engineer - Dec 3, 2021 "
+		},
+		"77": {
+			"rating": "5.0",
+			"desc": " Impact. Autonomy. Work with adults. PTO. ",
+			"pros": "Netfliix isn't for everybody. I've worked awhile in the Bay Area and a large majority of engineers would love to get a medium-level spec and build the best app to solution for it. Netflix asks its engineers to keep asking existential questions about what's needed next and how to keep scaling and its engineer/IC led. Yes you can get more comp elsewhere, but your peers are mature adults who can handle feedback and criticism. You get challenged with thoughtful questions. Yes, you may need to defend your solution and in the end, you get to build it and take responsibility for your decisions.I've rarely seen a director or manager get into the technical weeds and guide a project and tell people what they need to do. There's a lot of trust, but there's also a lot of expectation that you'll execute. Between Platform, Product, Studio, Data, and now Games, there are pockets of dysfunction, any company will have that. But as a whole, there's a lot of humanity and compassion. It's been the best place to work in my 20+ year career. A lot of smart people, a lot of cool challenges, and fricking unlimited PTO that people actually take. Heck, on LI people were bragging about the week their company gave them to recuperate from lockdowns. Netflix gave an entire month (slow August) and for the most part, we all did take a slow August... (Delta kept everyone from coming back in September but that was out of anyones control)Yes things are changing and it's becoming more big company-ish, but it's still a great place to be.",
+			"cons": "Reorgs. They happen a lot. Most engineers don't get affected in that their function and duties stay intact, but managers and directors get shifted around like chess pieces. I guess it's how VPs feel useful.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*******  Engineering Manager - Dec 2, 2021 "
+		},
+		"78": {
+			"rating": "5.0",
+			"desc": " Amazing coworkers in my vacinity ",
+			"pros": "- people are great- pay is great- problems are interesting",
+			"cons": "- culture can be spotty- there are some dud managers around, and they stick around too long- executive leadership has become seemingly less thoughtful over the last few years",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n******  Data Engineer - Nov 26, 2021 "
+		},
+		"79": {
+			"rating": "4.0",
+			"desc": " Not exactly the culture the memo outlines ",
+			"pros": "Great comp and benefits. Family planning in particular is very good.",
+			"cons": "Culture varies wildly from team to team. Lots of new leadership who came up in very different cultures. Some growing pains.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n*****  Creative Director - Nov 24, 2021 "
+		},
+		"80": {
+			"rating": "5.0",
+			"desc": " Amazing Work-Life Balance ",
+			"pros": "People rarely are working after 5pm (depending on the org).  Lots of vacation time is encouraged.  Parental leave is usually about 6-9 months.  The pay is amazing and if you ever feel underpaid, just interview and get an offer and it'll get beat.  The best part is, everyone acts like an adult here.  You do what you want and what you think is best for the company. If someone is doing a bad job, you give them feedback and let them know.  And if in the end you do get fired, you walk away with a huge check.",
+			"cons": "The streaming product org is very healthy, but I notice the health of the culture can vary from org to org.  We do get free food, but other than that we have very few perks.  The idea here is we are paid so much cash we can buy whatever we want/need.  ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n*******  Senior Software Engineer - Nov 19, 2021 "
+		},
+		"81": {
+			"rating": "4.0",
+			"desc": " It is what it says on the label.  ",
+			"pros": "The culture is (mostly) real. Lots of interesting problems to solve and the freedom to actually solve them. ",
+			"cons": "Everyone is free to solve problems their own way, and as the company scales, keeping people aligned to your vision of how to solve the problems you\u2019re responsible for is a PITA. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  Engineer - Nov 18, 2021 "
+		},
+		"82": {
+			"rating": "5.0",
+			"desc": " This is a great place to work ",
+			"pros": "There are a lot of good reasons to work at Netflix.",
+			"cons": "There is no downside and absolutely no downside at all.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*****  Senior Engineer - Nov 14, 2021 "
+		},
+		"83": {
+			"rating": "5.0",
+			"desc": " It\u2019s Netflix :) ",
+			"pros": "Big time to work for, great compensation. Nice co-workers. Smart top notch peers. Very transparent",
+			"cons": "Nothing. Maybe could reinstate stock program since stock is doing very well",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Manager, Risk Operations - Nov 13, 2021 "
+		},
+		"84": {
+			"rating": "4.0",
+			"desc": " Easy with few advancement opportunities  ",
+			"pros": "- Great WLB- Friendly colleagues - Excellent benefits and compensation ",
+			"cons": "- Boring work with low impact - Very difficult to move into management - Lack of process creates unnecessary chaos",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Senior Software Engineer - Nov 6, 2021 "
+		},
+		"85": {
+			"rating": "4.0",
+			"desc": " Great for mid-career engineers ",
+			"pros": "Great team, culture, work life balance and some interesting tech challenges",
+			"cons": "Hard to grow at staff level and beyond due to flat org and a lack of focus on career growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Senior Software Engineer - Nov 3, 2021 "
+		},
+		"86": {
+			"rating": "5.0",
+			"desc": " Great work life comp balance ",
+			"pros": "Lots of freedom as IC. No levels or perf reviews. Solid comp tied to market",
+			"cons": "Overall engineering innovation culture has taken a backseat in last couple years. Focus mostly on ramping up studio production engineering, streaming side is mostly keeping lights on. Management was great but getting worse over time, lot of incompetent leaders ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v****  Senior Software Engineer - Oct 29, 2021 "
+		},
+		"87": {
+			"rating": "4.0",
+			"desc": " Great culture, very senior people, average technical challenges, little career progression. ",
+			"pros": "Netflix work culture is famous and it\u2019s truely living up to the expectations. You are empowered in all your work decisions and treated like a trusted adult. I don\u2019t see too much work life balance issues. Full cash comp can be competitive but today\u2019s market conditions have challenged tc.",
+			"cons": "Stock options are pretty expensive (40% premium).Technical level is mixed, some ultra advanced systems but some lacking individuals.Not so remote friendly, although they are working ont it",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p******  Senior Software Engineer - Oct 27, 2021 "
+		},
+		"88": {
+			"rating": "4.0",
+			"desc": " Great place to rest and vest  ",
+			"pros": "Hefty Comp that continues to grow without any work. Perks",
+			"cons": "Leadership duck the life out of you. Netflix is changing and the recent leadership is introducing soMany processes. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  V*****  Software Engineer - Oct 26, 2021 "
+		},
+		"89": {
+			"rating": "5.0",
+			"desc": " So thankful to be working at Netflix, especially through the pandemic. Flexible and caring team and leadership. ",
+			"pros": "- Leaders care and are trustworthy- Transparent with plans and change- Challenged daily by amazing colleagues- Work is interesting and engaging- Opinions & feedback are welcome",
+			"cons": "- High pressure to perform- Very high visibility on all of your work- There is a lot of work to be done, all the time",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*****  Product Operations Manager - Oct 23, 2021 "
+		},
+		"90": {
+			"rating": "5.0",
+			"desc": " Great comp, great people ",
+			"pros": "Great people and great place to work. Challenging problems and exciting growth paths.",
+			"cons": "No downsides that I can think of. Pretty great place to work.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u******  Product Designer - Oct 20, 2021 "
+		},
+		"91": {
+			"rating": "5.0",
+			"desc": " Studio Product ",
+			"pros": "Many brilliant ICs, top of market comp, great freedom/responsibility culture for those who know how to hone it",
+			"cons": "Non-tech savvy studio leadership, ambiguous vision, lack of strategy, etc ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c*****  Product Manager - Oct 19, 2021 "
+		},
+		"92": {
+			"rating": "5.0",
+			"desc": " Amazing company ",
+			"pros": "Great company to work for, great culture and pay, growth is there if you seek it",
+			"cons": "Can be hard for non liberal folk at times. Other thank that it\u2019s good",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l***  Customer Service - Oct 15, 2021 "
+		},
+		"93": {
+			"rating": "5.0",
+			"desc": " Amazing place to work ",
+			"pros": "Great comp, WLB, interesting projects, smart and compassionate teammates, very little process to get in the way, cool product and innovations",
+			"cons": "Imposter syndrome is intense early and context can be hard to find when searching for it",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n*****  Senior UI Engineer - Oct 8, 2021 "
+		},
+		"94": {
+			"rating": "4.0",
+			"desc": " Great pay and WLB ",
+			"pros": "Incredible top of market pay, like 100k more than I\u2019d get anywhere else. Wlb isn\u2019t bad, and no weekend work. Work quality is high. ",
+			"cons": "Extremely meeting-heavy presentation culture where you barely have time to get any work done.  lots of useless ceremonies and time wasting meetings. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  i*****  Designer - Oct 7, 2021 "
+		},
+		"95": {
+			"rating": "5.0",
+			"desc": " Great product and solid engineering culture  ",
+			"pros": "Comp, culture, stunning colleagues, big impact, perks, unlimited pto, solid leadership ",
+			"cons": "No career growth for IC.Can be stressful for new folks ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  C*****  Senior Software Engineer - Oct 3, 2021 "
+		},
+		"96": {
+			"rating": "4.0",
+			"desc": " Great company, great culture, great pay. No IC Growth ",
+			"pros": "Really love the company and the product. No BS processes and/or bureaucracy. If you're lucky with a manager you get complete freedom and no guardrails whatsoever to do what you think is best for the company. WLB is great.",
+			"cons": "Given the flat structure of the org there's literally no growth path for OC. The top of the market is personal for everyone and is determined using some combination of astrology and fortune telling. Often it has little to do with the actual performance.  ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  Q*****  Senior Data Engineer - Sep 29, 2021 "
+		},
+		"97": {
+			"rating": "5.0",
+			"desc": " Great culture and stunning colleagues ",
+			"pros": "top of the market compensation, this is generally true in my (limited) experiences. Likely if you are lucky or if you negotiate hard you can get higher compensation in some other companies, but in Netflix the company proactively survey the market and try to make sure your compensation is top of the market.The freedom & responsibility and context not control gives a lot of freedom to individual engineers.  ",
+			"cons": "Only a single title for IC is good and bad.  ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  a*****  Senior Software Engineer - Sep 28, 2021 "
+		},
+		"98": {
+			"rating": "5.0",
+			"desc": " Great ",
+			"pros": "Autonomy, compensation, good tech. Work with smart people - all with a great work life balance. ",
+			"cons": "Can be sometimes a lack in direction. Requires self-staters to pave their own path.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  J*****  Senior Software Engineer - Sep 26, 2021 "
+		},
+		"99": {
+			"rating": "4.0",
+			"desc": " Great comp and interesting problems ",
+			"pros": "Comp, good leadership, hard problems, definitely a non evil tech company ",
+			"cons": "Culture isn\u2019t always what it says in the memo, and F&R sometimes leaves little direction (in a bad way)",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Product Designer - Sep 24, 2021 "
+		},
+		"100": {
+			"rating": "3.0",
+			"desc": " Studio Product has its challenges  ",
+			"pros": "Really good top level leadership, smart and motivated ICsGood WLB",
+			"cons": "No growth or growth path Revolving chair of leaders in some orgs ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  E*****  Product Manager - Sep 23, 2021 "
+		},
+		"101": {
+			"rating": "4.0",
+			"desc": " Great company to work for however long it lasts ",
+			"pros": "Mature and Smart people. Good product. Team members work well. No nonsense. Pays well. Good compensation. Reasonable working hours compare to startups. ",
+			"cons": "Change is constant which includes the most basic functions. You may be wasting time to put 100% effort since it may not count tomorrow. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  L*****  Software Engineer - Sep 23, 2021 "
+		},
+		"102": {
+			"rating": "4.0",
+			"desc": " Pretty solid company ",
+			"pros": "I\u2019ve worked at Facebook, google, etc. Netflix is on par with other companies. Sure there are quirks (increased transparency around why they fire someone, frequent reorgs, autonomy but no clear decision maker), but on average it is pretty solid. People are smart and reasonable. Most people are focused on making the product and business better. People try to think outside of themselves (which is always very hard no matter where you work). ",
+			"cons": "You don\u2019t get the 4 year equity upside (although many companies are changing to rolling 1 year equity grants to prevent people from capitalizing on that)",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T*****  Product Manager - Sep 21, 2021 "
+		},
+		"103": {
+			"rating": "4.0",
+			"desc": " Great compensation ",
+			"pros": "love the core culture at Netflix, love freedom and responsibility",
+			"cons": "leadership is not great enough and not supportive, not sure what value they are adding",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n*******  Product Designer - Sep 20, 2021 "
+		},
+		"104": {
+			"rating": "5.0",
+			"desc": " Great culture and opportunities if you're a self-starter ",
+			"pros": "- culture- pay- freedom to do great work",
+			"cons": "- no career framework- same engineering levels- knowledge silos in some areas of the org",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  a*****  Software Engineer - Sep 18, 2021 "
+		},
+		"105": {
+			"rating": "5.0",
+			"desc": " Great WLB ",
+			"pros": "Always interesting and challenging work that really personifies what I look for in a company ",
+			"cons": "Politics are starting to creep in as the die of the company also increases",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Analytics Engineer - Sep 15, 2021 "
+		},
+		"106": {
+			"rating": "4.0",
+			"desc": " High quality colleagues, top of market comp, fun mission make this an exciting place to work. ",
+			"pros": "Surrounded by high quality colleagues, top of market comp, fun mission.",
+			"cons": "While managers have levels, there is no growth path for software engineers.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j***  Senior Software Engineer - Sep 14, 2021 "
+		},
+		"107": {
+			"rating": "3.0",
+			"desc": " Too much freedom, not so much responsibility ",
+			"pros": "If you can get onto the right team - one working on a priority project for the company - you can do really interesting things. The pay and benefits also are great. ",
+			"cons": "The culture is super hierarchical even though it says it\u2019s not. As we grow there\u2019s a need to be more strategic and this company just isn\u2019t strategic. The feedback culture isn\u2019t productive as it currently exists. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  W*****  Public Relations - Sep 8, 2021 "
+		},
+		"108": {
+			"rating": "5.0",
+			"desc": " Great company ",
+			"pros": "Smart colleagues, they push you to do wellGood business, still growing steadily",
+			"cons": "No job security, it can cause some stressMediocre middle management",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  E*****  Search Marketing Manager - Sep 6, 2021 "
+		},
+		"109": {
+			"rating": "2.0",
+			"desc": " Great pay. Otherwise mediocre ",
+			"pros": "Money. Netflix still pays more than most companies. Easy to coast if you learn to play the politics game well. ",
+			"cons": "Zero career growth. No annual stock refreshers so your compensation will lab behind peers at other companies assuming stock prices go up or even stay the same. Culture of fear, managers hold too much power with no checks. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  P***  Software Engineer - Sep 4, 2021 "
+		},
+		"110": {
+			"rating": "2.0",
+			"desc": " Management is terrible and getting worse ",
+			"pros": "- Top of market TC- Culture principles are great",
+			"cons": "- Politics. Self serving managers and directors.- Old fashioned company and technology- Work life balance is inconsistent- Lack of growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b******  Senior Software Engineer - Sep 3, 2021 "
+		},
+		"111": {
+			"rating": "5.0",
+			"desc": " great pay ",
+			"pros": "pay is really really really great. It is litureally your personal top of market",
+			"cons": "very less growth since there are very few manager positions",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Data Scientist - Aug 30, 2021 "
+		},
+		"112": {
+			"rating": "2.0",
+			"desc": " It used to be a good place \u2014 before verna joined and proactively ruined everything with D&I propaganda ",
+			"pros": "Your parents know where you work. You get a lot of calls from headhunters ",
+			"cons": "Mediocracy of diversity hires \u2014 don\u2019t get me wrong. I am also one with diversity points \u2014 only i didnt choose to play that card. But not all makes same fair decisions like i did. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  w******  Marketing Manager - Aug 27, 2021 "
+		},
+		"113": {
+			"rating": "5.0",
+			"desc": " Great WLB/Stack is a little old ",
+			"pros": "Have the freedom to work without unnecessary processes and good work life balance",
+			"cons": "The tech stack is a little dated and mostly in house ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  F*****  Senior Software Engineer - Aug 22, 2021 "
+		},
+		"114": {
+			"rating": "5.0",
+			"desc": " Great work life balance  ",
+			"pros": "Good comp, good wlb, fun company, media centric, fun culture. ",
+			"cons": "Fast paced, sometimes long hours, can be a bit strenuous",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h******  Strategic Business Analyst - Aug 20, 2021 "
+		},
+		"115": {
+			"rating": "2.0",
+			"desc": " You live and die by your manager ",
+			"pros": "Great pay. Talented colleagues. Good food. Transparent company, but not as transparent as advertised. ",
+			"cons": "Depending on how you get along with your manager, it will make or break how you survive Netflix\u2019s strange culture. It\u2019s fine if you don\u2019t agree with other people\u2019s feedback. But if you don\u2019t agree with your manager\u2019s feedback, sayonara!",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  z*****  Senior Software Engineer - Aug 19, 2021 "
+		},
+		"116": {
+			"rating": "5.0",
+			"desc": " Sr Software Eng ",
+			"pros": "Pay is really good and all cash Little to no red tape ",
+			"cons": "No career development for Engineers, you will stagnate if you stay for too long. Managers are not technical. Little to no promotion from within.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n*********  Software Engineer - Aug 12, 2021 "
+		},
+		"117": {
+			"rating": "5.0",
+			"desc": " No Co is perfect but this one is pretty great ",
+			"pros": "Wonderful people. Love the freedom and responsibility element. Depending on role and manager you have wide latitude to create impact. ",
+			"cons": "A lot of complacency amongst folks who\u2019ve been there a long time. Haven\u2019t seen material evolution in the strategy in a while. I think the firm is wrestling with how to grow up without losing its soul and frankly dealing with a new competitive landscape in the midst of leadership transitions everywhere. I remain generally bullish on firm success. Great experience for anyone while it lasts. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  e*********  Engineer - Aug 12, 2021 "
+		},
+		"118": {
+			"rating": "3.0",
+			"desc": " Great pay ",
+			"pros": "$ $ $ $ $ $ $ $ $ $",
+			"cons": "Culture of fear, managers have too much power, bad for growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  M*****  Finance - Aug 9, 2021 "
+		},
+		"119": {
+			"rating": "5.0",
+			"desc": " Great culture. Not a clear path for career growth ",
+			"pros": "The culture is great. It's transparent, caring, trusting. It's not as scary as you'd think from the outside.",
+			"cons": "Career growth is ill-defined. We talk about impact growth but don't discuss how that translates into comp growth.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*****  Senior Engineer - Aug 7, 2021 "
+		},
+		"120": {
+			"rating": "2.0",
+			"desc": " The culture is performative at best.  ",
+			"pros": "Big name for resume boost. Great place to come and get some top tier experience working with some of the smartest people in the industry ",
+			"cons": "Management is a mess..there are no real parameters or checks and balances in place to stop those with malicious intent from ruining your career. You have to kiss ALOT of ass and the support/concern they all share is performative at best. They pay a lot which is cool\u2026but you can get trapped by the $$$ and end up having to sacrifice your mental well being for financial survival. If you can make it 2-3 years LEAVE and go get a real functional gig. The worst part of it all is the culture and how it\u2019s delivery is left up to interpretation of those in charge. Your experience can either be really good\u2026or really REALLY bad. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h*********  Senior Software Applications Engineer - Aug 6, 2021 "
+		},
+		"121": {
+			"rating": "4.0",
+			"desc": " Work hard but great benefits  ",
+			"pros": "Great people, refreshingly transparent culture, and top of market benefits and pay",
+			"cons": "Longer hours than elsewhere, and it\u2019s also such a large company there\u2019s inevitably a fair degree of process ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j***  Content Strategy Manager - Jul 25, 2021 "
+		},
+		"122": {
+			"rating": "3.0",
+			"desc": " Your mileage may vary ",
+			"pros": "What's descried in culture memo and what the company is trying to achieve is great - on the paper, and if it's really practiced by the employees, it could be the greatest company you've ever worked for. ",
+			"cons": "How they are practiced vary greatly by the org.  So, it all depends on the team, and more importantly, by the manager.  It's the same as any other companies with politics, self-protection, etc., if you get the manager who does not adhere to the culture memo, and as a reorg happens frequently here, your situation could quickly changes for the worse.I say it feels even worse when it happens, as you are experiencing what you should not be experiencing at Netflix.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Senior Software Engineer - Jul 23, 2021 "
+		},
+		"123": {
+			"rating": "4.0",
+			"desc": " Mixed feels ",
+			"pros": "CompensationDiversity & InclusionTransparencyFreedomFancy brand / pride",
+			"cons": "Chaotic (on purpose from leadership)Constant re-orgs, manager changesLots of confusion due to lack of boundaries of each roles - might not have set jobsOffice-centric, return to office",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  K*****  Project Associate - Jul 16, 2021 "
+		},
+		"124": {
+			"rating": "4.0",
+			"desc": " Pay is good, stack is old. ",
+			"pros": "- Great work life balance, people rarely work past 5pm.- Great colleagues that are very supportive.",
+			"cons": "It's an older company so expect the tech stack to be quite old. On top of that, all the legacy systems can be quite heavy to work with. Very often you feel like you have to do twice as much to get the same work done.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r*****  Senior Software Engineer - Jul 16, 2021 "
+		},
+		"125": {
+			"rating": "5.0",
+			"desc": " Best place ever ",
+			"pros": "Mutual respect Smart people Focus on core productFreedom Communication ",
+			"cons": "One main product Duplication of work due to freedomGrowing pains",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b******  Engineer - Jul 15, 2021 "
+		},
+		"126": {
+			"rating": "5.0",
+			"desc": " Excellent coworkers, no politics ",
+			"pros": "No politics in the org. Solid product teams. Good management. ",
+			"cons": "High independence also means lack of clarity in performance. Can be good or bad. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p********  Software Engineer - Jul 12, 2021 "
+		},
+		"127": {
+			"rating": "5.0",
+			"desc": " Freedom! ",
+			"pros": "Compensation, freedom to be creative, great managers, empathetic - especially during COVID ",
+			"cons": "Difficult to move positions or be promoted. However, compensation adjustments can make up for some if that ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p*****  Engineer - Jul 9, 2021 "
+		},
+		"128": {
+			"rating": "3.0",
+			"desc": " Good Pay, Bad Politics ",
+			"pros": "- Good pay- Good benefits- Data driven decision-making ",
+			"cons": "- Little innovation- Poor management- Political leadership- Culturally confused ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*****  Senior Software Engineer - Jul 6, 2021 "
+		},
+		"129": {
+			"rating": "3.0",
+			"desc": " No longer walking the walk ",
+			"pros": "A very good work/life balance and a lot of truly stunning colleagues and decent people",
+			"cons": "Massive growth has led to a slowdown of innovation, which has been exhausting, and the superficial signaling about social justice issues has created a pitiful environment of fear and groupthink.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m******  Product Analyst - Jun 24, 2021 "
+		},
+		"130": {
+			"rating": "5.0",
+			"desc": " Stunning Colleagues, Big Challenges ",
+			"pros": "High performing teams keep things exciting.Fun to work in the global entertainment space.Clear, succinct, and direct feedback helps move things forward without the BS.Top of market compensation and benefits.Work life balance and freedom and responsibility to do your best work.",
+			"cons": "Everyone is pretty high performing, so it\u2019s harder to stand out.Lack of distinct leveling may make it harder for individuals to have a clear growth path, but honestly it\u2019s up to you to manage your own growth.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v*****  Lead Design Engineer - Jun 17, 2021 "
+		},
+		"131": {
+			"rating": "5.0",
+			"desc": " Great work life balance, tons of freedom  ",
+			"pros": "Great work life balance, a ton of freedom in your role, no micromanagement, smart coworkers, no leveling, and opportunity to learn.",
+			"cons": "Some might prefer more structure, there\u2019s also not much opportunity for promotion/career growth. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v*****  Analytics Engineer - Jun 14, 2021 "
+		},
+		"132": {
+			"rating": "3.0",
+			"desc": " Limited Career Growth ",
+			"pros": "Good compensation, most people are friendly and easy to work with.",
+			"cons": "Very hard to transfer horizontally in the company.  Once you start under a manager/team its nearly impossible to move to a new manager/team.  No positions above Senior Software Engineer except Management roles. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r********  Senior Software Engineer - Jun 14, 2021 "
+		},
+		"133": {
+			"rating": "5.0",
+			"desc": " Great work, great comp and culture ",
+			"pros": "Top of market comp and very challenging work. Freedom to operate as it works for you and high caliber colleagues for the most part.",
+			"cons": "No levels and hence, no growth from a industry perspective. That said, lots of internal growth and experience that can be leveraged elsewhere.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*******  Product Manager, Technology - Jun 6, 2021 "
+		},
+		"134": {
+			"rating": "3.0",
+			"desc": " poor work life balance ",
+			"pros": "The compensation is amazing and generally excellent colleagues to work with",
+			"cons": "The culture really depends on who you report to and work with",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  I*****  Analytics Engineer - Jun 3, 2021 "
+		},
+		"135": {
+			"rating": "5.0",
+			"desc": " Fantastic compensation ",
+			"pros": "truly does pay top of market, and as a product of this, also hires top of market people. ",
+			"cons": "Your growth is limited, and probably depends heavily on your manager and a bit on your self-drive. No HR  career ladders  in place to guide you",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  L*****  Analytics Engineer - Jun 2, 2021 "
+		},
+		"136": {
+			"rating": "5.0",
+			"desc": " Amazing work life balance ",
+			"pros": "Compared to agency life, just more relaxed and open with internal and external teams",
+			"cons": "Nothing observed so far. Clarity on post WFH would be appreciated ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s********  Recruiter - May 27, 2021 "
+		},
+		"137": {
+			"rating": "4.0",
+			"desc": " Culture is just on the deck; otherwise getting diluted! ",
+			"pros": "Awesome CEO and Executive leadership. Truly stunning engineers to work with but since the past two years or so the incoming managers have really diluted the so called,  Netflix Culture . All cash comp and pay top of the market every year to get employees their top salaries every year. ",
+			"cons": "No career growth into management for ICsTeam managers are almost always external hire and they don\u2019t understand the concept of Freedom and Responsibility - either they can\u2019t provide sufficient freedom or cannot trust ICs to be responsible. Skip managers seem to be better at preserving the culture. No IC career growth is most shitty part though.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Senior Software Engineer - May 24, 2021 "
+		},
+		"138": {
+			"rating": "4.0",
+			"desc": " Great culture which is healthy and alove ",
+			"pros": "Gnarly technical challenges at epic scale lead to industry leading solutions.",
+			"cons": "Freedom and responsibility and loosely coupled highly aligned can create a fair amount chaos and misalignment",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*****  Senior Software Engineer - May 24, 2021 "
+		},
+		"139": {
+			"rating": "4.0",
+			"desc": " Great place to work ",
+			"pros": "- Open culture- Great comp - All cash!!- Brilliant peers",
+			"cons": "- Lack of well-defined path for growth- Vague evaluations",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  Senior Data Engineer - May 24, 2021 "
+		},
+		"140": {
+			"rating": "4.0",
+			"desc": " Manager defines experience, minimal growth opportunities , great pat ",
+			"pros": "Top of market salary. Depending on function working with brilliant ICs. People over process. ",
+			"cons": "Limited upside to career growth due to flat orgs, make sure you have transferable projects/skills @ Netflix otherwise it will be a harder fall off the ladder should you desire to transition out. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b*********  Product Manager - May 24, 2021 "
+		},
+		"141": {
+			"rating": "4.0",
+			"desc": " Good pay and work  ",
+			"pros": "Good tech stack , compensation , open and transparent culture",
+			"cons": "Not so happy with the management. Do not understand their agenda.  Management encourages employees to focus more on showcasing rather than doing the actual work. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  B********  Software Engineer - May 22, 2021 "
+		},
+		"142": {
+			"rating": "4.0",
+			"desc": " Good cash compensation ",
+			"pros": "Feels like a big start-up Company culture is great ",
+			"cons": "Work can get too busy at times Not much innovation",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  B*****  Engineering Manager - May 14, 2021 "
+		},
+		"143": {
+			"rating": "5.0",
+			"desc": " One of the best work experience so far ",
+			"pros": "Great compFreedom and responsibility Context not control - culture memo is an accurate reflection on what it\u2019s like to work at Netflix",
+			"cons": "Personal Growth is unclear Need role clarity across several functions ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  M*****  HR Manager - May 13, 2021 "
+		},
+		"144": {
+			"rating": "5.0",
+			"desc": " Best company I\u2019ve worked for  ",
+			"pros": "Culture, management, compensation, work life balance. Technologies you work on are latest. ",
+			"cons": "Could be limiting on the career development front if you want to grow into the ladder",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  S*******  Senior Data Engineer - May 13, 2021 "
+		},
+		"145": {
+			"rating": "5.0",
+			"desc": " Moment in Time ",
+			"pros": "Grown a lot in time here because of what we get to work on, exposed to and execute Compensation package is strongCome to build and grow - business is still growing and not stale Global exposure and impact ",
+			"cons": "No work life balance (even though there is freedom and responsibility) you are consumed by the culture and can\u2019t turn it off. Leadership praised on what they bring to table vs leadership skills and traits ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p*****  Senior Director Talent Acquisition - May 10, 2021 "
+		},
+		"146": {
+			"rating": "5.0",
+			"desc": " Great culture, WLB, and growth for younger employees ",
+			"pros": "Culture deck holds true and I\u2019ve seen mostly positive from it. WLB is reasonable. Great environment to learn.",
+			"cons": "As it scales, it is uncertain to keep its culture. I hope it does! ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*******  Senior Software Engineer - May 8, 2021 "
+		},
+		"147": {
+			"rating": "5.0",
+			"desc": " Just started here ",
+			"pros": "Compensation is the great. Woo hoo top of market netflix!",
+			"cons": "Heavy VC/ meetings culture. Not everything needs to be a meeting",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  A*****  Research Associate - May 5, 2021 "
+		},
+		"148": {
+			"rating": "5.0",
+			"desc": " Small teams. TC is very straightforward. ",
+			"pros": "- Small teams- All cash TC, invest the cash how you want - Strong feedback culture - Supportive management- One level for ICs- Own your own impact ",
+			"cons": "- So much code debt- Bitbucket instead of Github",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s*******  Senior Software Engineer - May 4, 2021 "
+		},
+		"149": {
+			"rating": "4.0",
+			"desc": " Great wlb and nice pay but no career growth ! ",
+			"pros": "Netflix has a great wlb and a nice payThe benefits are good too !",
+			"cons": "Non-existent career growth.Its no longer the tech company that it used to be. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Software Engineer - May 4, 2021 "
+		},
+		"150": {
+			"rating": "4.0",
+			"desc": " Good comp not much growth  ",
+			"pros": "Good comp for most, up to senior level icFreedom",
+			"cons": "No career path for icManager has too much power to ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q***  Engineer - May 4, 2021 "
+		},
+		"151": {
+			"rating": "4.0",
+			"desc": " Great work life balance ",
+			"pros": "Netflix has great company culture which many/most try to adhere to.  Unbeatable compensation, interesting work.",
+			"cons": "The company growth has degraded the culture a bit and has made it harder to get work done. Process is starting to creep in. Some managers create political divides which get in the way of getting shit done.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v*****  Engineer - May 1, 2021 "
+		},
+		"152": {
+			"rating": "5.0",
+			"desc": " Top of market comp and culture ",
+			"pros": "Top of market compCultureFreedom in decision making, little red tapeAutonomyBenefitsTalent density",
+			"cons": "PoliticalSqueaky wheels / vocal and type A individuals are advantages",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Director of Marketing - May 1, 2021 "
+		},
+		"153": {
+			"rating": "5.0",
+			"desc": " Great place  ",
+			"pros": "-compensation -culture (teams want other teams to succeed)-solution oriented ",
+			"cons": "-manager makes it or break it for you more so than average company -limited mentoring opportunities as emphasis is on senior hires ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  L********  Engineering Manager - Apr 28, 2021 "
+		},
+		"154": {
+			"rating": "5.0",
+			"desc": " Great benefits and w/l balance  ",
+			"pros": "Always striving to be better whether it\u2019s our tech or vision or benefits. Transparent management.",
+			"cons": "A lot of the cool stuff has already been built.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s*****  Engineer - Apr 24, 2021 "
+		},
+		"155": {
+			"rating": "4.0",
+			"desc": " A great opportunity, with limits for ICs. ",
+			"pros": "\u2022 Compensation is top of market, especially from the perspective of cash in hand\u2022 They do generally try to stick to the culture, and believe in communication, transparency, independence, trust and empowerment\u2022 Complex problems to solve, with a clear connection to popular culture and affect on it\u2022 Have I said compensation?\u2022 Inclusive environment, empowerment of POC and non-males has become more a part of the culture",
+			"cons": "\u2022 Rapid growth of the company has led to middle-management bloat. Less transparency and the scoping-down of roles to fit into cleaner boxes has become a trend.\u2022 No real track for IC development or growth. As there are no levels, it falls solely on managers to nurture talent, which they may not have the skills for.\u2022 Bar for talent has gone down with growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t*********  Product Designer - Apr 16, 2021 "
+		},
+		"156": {
+			"rating": "3.0",
+			"desc": " No work life balance, minimal (if any) career growth opportunities  ",
+			"pros": "The individual contributors in the company were interesting to work with",
+			"cons": "Lack of leadership, culture does not encourage employees to be authentic, minimal mentorship opportunities. Very hierarchical company stack ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p*****  Recruiter - Apr 16, 2021 "
+		},
+		"157": {
+			"rating": "4.0",
+			"desc": " Netflix and Chill ",
+			"pros": "- Great comp- Very transparent- Light on process- Strong leadership- Good WLB",
+			"cons": "- Difficult to move into management, if that's something you care about- Questionable talent density",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  U*****  Senior Software Engineer - Apr 12, 2021 "
+		},
+		"158": {
+			"rating": "5.0",
+			"desc": " Fantastic people ",
+			"pros": "The management trusts and cares about people. I appreciate the full transparency within the company and the frequent feedback from my colleagues.",
+			"cons": "The growth trajectory is unclear if you are used to the common laddering system.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*****  Senior UI Engineer - Apr 7, 2021 "
+		},
+		"159": {
+			"rating": "5.0",
+			"desc": " Great culture ",
+			"pros": "Great cultureTop of market payment.Great Work life balance.",
+			"cons": "Not great career growth for software engineer.Payment is capped out at L6.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Software Engineer - Apr 6, 2021 "
+		},
+		"160": {
+			"rating": "5.0",
+			"desc": " Great Compensation ",
+			"pros": "Employees have freedom and responsibility.Maturity of people.Great compensation and benefits.Great engineering teams.",
+			"cons": "Subjective firings.Potential for burn-out. No career growth.Weak product teams.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j******  Software Engineer - Apr 5, 2021 "
+		},
+		"161": {
+			"rating": "4.0",
+			"desc": " Great comp, terrible management and culture  ",
+			"pros": "Money and career growth were the biggest pros to this role ",
+			"cons": "The cutthroat culture is really brutal and management doesn\u2019t know what they\u2019re doing. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T******  Data Engineer III - Apr 4, 2021 "
+		},
+		"162": {
+			"rating": "5.0",
+			"desc": " I have worked at other FAANG companies before and Netflix is the best. Great culture and truly top of the market comp ",
+			"pros": "Compensation and benefits, one of the best products, work life balance. ",
+			"cons": "No criteria for promotion. I have seen people joining from outside as directors or internally getting promoted to director without any significant impact and experience. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Engineering Manager - Apr 1, 2021 "
+		},
+		"163": {
+			"rating": "5.0",
+			"desc": " Changing rapidly, for better or for worse ",
+			"pros": "By far the best organization I've worked for and my favorite team that I've been a part of",
+			"cons": "It's hard to resist the pull to act like a larger corporation as we mature",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b****  Analyst - Business Consulting - Mar 28, 2021 "
+		},
+		"164": {
+			"rating": "4.0",
+			"desc": " Lacks employee growth ",
+			"pros": "Comp is all cash and you choose how much to invest in stock. ",
+			"cons": "Career growth is limited. So few promotions. When an internal role opens it rarely goes to a current employee. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r*******  Product Developer - Mar 27, 2021 "
+		},
+		"165": {
+			"rating": "4.0",
+			"desc": " Good wlb, bad career growth for ICs ",
+			"pros": "Compensation and benefits are great for junior level ICs. Wlb is good for some teams",
+			"cons": "There is little to no personal career growth for ICs",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k******  Data Scientist - Mar 23, 2021 "
+		},
+		"166": {
+			"rating": "4.0",
+			"desc": " Good company ",
+			"pros": "Pay good and good benefits and reasonable company culture and nice swags",
+			"cons": "WLB depends on team heavily. 360 feedback could be used in a political way",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  x*****  Senior Software Engineer - Mar 15, 2021 "
+		},
+		"167": {
+			"rating": "4.0",
+			"desc": " Great work life balance ",
+			"pros": "Wlb,Compensation,Culture Overall great focus from the management about the product direction.",
+			"cons": "Non existent career growth.Single trick pony.Pockets of bad management.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l*****  Senior Software Engineer - Mar 14, 2021 "
+		},
+		"168": {
+			"rating": "5.0",
+			"desc": " Great place to be an IC forever ",
+			"pros": "Money, autonomy, colleagues, industry, work life balance, food, looks good on resume",
+			"cons": "Small scope projects, too many directors, not full remote yet",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t*****  Senior Data Scientist - Mar 11, 2021 "
+		},
+		"169": {
+			"rating": "4.0",
+			"desc": " Great compensation  ",
+			"pros": "High talent density, interesting industry, professional growth, good work life balance",
+			"cons": "Culture largely depends on your team, can be positive or downright toxic",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Finance - Mar 10, 2021 "
+		},
+		"170": {
+			"rating": "4.0",
+			"desc": " great company ",
+			"pros": "great work life balancegreat comp esp if you're relatively juniorpeople are nice",
+			"cons": "not much career progression for ICsome teams are not doing deep technical work",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v*****  Software Engineer - Mar 9, 2021 "
+		},
+		"171": {
+			"rating": "5.0",
+			"desc": " Good place to work\u2019 ",
+			"pros": "Product company first and the scope is limited to shows and movies.",
+			"cons": "Focused on product first, not on tech  or infrastructure needs.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b*****  Engineer I - Mar 1, 2021 "
+		},
+		"172": {
+			"rating": "5.0",
+			"desc": " Flat but not in comp ",
+			"pros": "Well payed if you fit in the right set of skills",
+			"cons": "Fear of getting fired if you are not successful on your own",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  0****  Senior Software Engineer - Feb 26, 2021 "
+		},
+		"173": {
+			"rating": "5.0",
+			"desc": " Great work life balance  ",
+			"pros": "Pay is outstanding, little red tape. Salary increases happen automatically.",
+			"cons": "No career growth whatsoever for ICs. Medicare people do as well as exceptional eng.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  I*******  Software Engineer - Feb 25, 2021 "
+		},
+		"174": {
+			"rating": "4.0",
+			"desc": " A lot of ownership mentality among engineers ",
+			"pros": "If you enjoy working with lots of senior engineers this would be for you. ",
+			"cons": "People are let go often. Make sure you know how to manage up and work with your manager. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*****  Senior Software Engineer - Feb 24, 2021 "
+		},
+		"175": {
+			"rating": "4.0",
+			"desc": " No growth, but good paycheck. ",
+			"pros": "Conducive to buckling down and getting your work down. Good benefits.",
+			"cons": "No IC growth. Management is non technical, driven by politics and management growth. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p********  Senior Software Engineer - Feb 20, 2021 "
+		},
+		"176": {
+			"rating": "3.0",
+			"desc": " Culture depends on team and location ",
+			"pros": "Competitive nature of role and co-workers keeps you striving for your best. Despite what the culture deck says, it is highly dependent on your team and location. Some roles are not as cutthroat and there is more leeway to be just average. ",
+			"cons": "You are hired and paid very well to do one job and it will likely be the only job you'll hold there until you quit or get fired. Career progression is rare and political. Even if there is an opening above you that you are qualified for, they will prefer to go external. ",
+			"resignation reason": "Career advancement to leadership role at another similar media company.",
+			"authorInfo": "Verified User  Former Employee  Y*****  Human Resources - Feb 19, 2021 "
+		},
+		"177": {
+			"rating": "5.0",
+			"desc": " True to culture with great impact ",
+			"pros": "Truly a data-first, AB test driven culture. There's not a lot of red tape, you can make a big impact, and the pay is good.",
+			"cons": "Flat structure makes career advancement hard to reflect externally and everyone's seniority ambiguous. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  i*****  Product Designer - Feb 19, 2021 "
+		},
+		"178": {
+			"rating": "4.0",
+			"desc": " Great pay, opinions valued ",
+			"pros": "Stunning colleagues with few exceptionsGreat benefitsFreedom and responsibility",
+			"cons": "No clear path for career growthGreat pay, but people are exited for various reasons unrelated to performance",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  Q*****  Marketing Manager - Feb 17, 2021 "
+		},
+		"179": {
+			"rating": "5.0",
+			"desc": " Extremely employee friendly, Amazing culture  ",
+			"pros": "Get to work with amazing people while being paid top of market. Company mission is inspiring as well.",
+			"cons": "Somewhat lacking in large scale interesting problems to work on that haven\u2019t been solved ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  x****  Senior Software Engineer - Feb 17, 2021 "
+		},
+		"180": {
+			"rating": "5.0",
+			"desc": " Excellent culture ",
+			"pros": "High pay and all in cashStunning colleaguesGood projects",
+			"cons": "IC growthBad manager can ruin everythingLess challenging work",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  K*****  Engineering Manager - Feb 16, 2021 "
+		},
+		"181": {
+			"rating": "3.0",
+			"desc": " Good but not always great  ",
+			"pros": "The compensation truly is at an industry best With exceptions, some of the smartest people you\u2019ll ever collectively work withAll opinions are valued - coordinator to VP. You can have a voice if you want to. The Netflix name opens a lot of doors - meetings, job opportunities, etc. ",
+			"cons": "The old culture is fading and it\u2019s missed but resistance to being a studio comes off as insecurity and naivety.As amazing as some of the D&I efforts have been at the company - they mostly play as reactive to current events or internal discourseThe content can feel like quantity over quality and results in very little work life balanceGood people are often let go because of personal clashing with their managers, as opposed to not actually being good at their job. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T*****  Creative Manager - Feb 14, 2021 "
+		},
+		"182": {
+			"rating": "4.0",
+			"desc": " Culture not as bad as it sounds ",
+			"pros": "Good work life balanceClearly pay is high I actually like the culture deck as I feel like it\u2019s honest and it\u2019s not as bad as everyone makes it sound",
+			"cons": "I like the culture deck but People are super super super into the culture like almost cult likeLots of reorg changes ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  J*****  Machine Learning Engineer - Feb 10, 2021 "
+		},
+		"183": {
+			"rating": "5.0",
+			"desc": " Great place to work ",
+			"pros": "Great work life balance, opportunities to navigate within the company and culture/values play a critical role. Employee\u2019s perspective on a product feature will be taken seriously into consideration ",
+			"cons": "No cons that I can think of, l enjoy working at Netflix!",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  W*****  Capacity Planning Engineer - Feb 9, 2021 "
+		},
+		"184": {
+			"rating": "4.0",
+			"desc": " Good culture ",
+			"pros": "Good company, great mgmt, amazing perks and pay and benefits",
+			"cons": "Work life balance is not that good. Fear of termination",
+			"resignation reason": "I had Location constraint since my family moved out of canada",
+			"authorInfo": "Verified User  Former Employee  D********  HR Administrator - Feb 8, 2021 "
+		},
+		"185": {
+			"rating": "4.0",
+			"desc": " Overall a good company to be in ",
+			"pros": "Great compensationGood culture Good accountability across board Good free good and employee benefits ",
+			"cons": "Career growth path not well defined , becoming a manager considered a viable option. Hire and fire culture ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c********  Senior Software Engineer - Feb 8, 2021 "
+		},
+		"186": {
+			"rating": "4.0",
+			"desc": " Great WLB limited growth ",
+			"pros": "Great work life balance and top of market pay. Focus on inclusiveness ",
+			"cons": "Mediocre middle management and limited career growth for ICs in engineering ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d********  Engineer Associate - Feb 8, 2021 "
+		},
+		"187": {
+			"rating": "5.0",
+			"desc": " Life changing  ",
+			"pros": "Great people, great money, no nonsense.Good technology, visionary leadership.",
+			"cons": "Lack of structure for growing career. However the most entrepreneurial do grow. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u*****  Data Scientist - Feb 6, 2021 "
+		},
+		"188": {
+			"rating": "4.0",
+			"desc": " Great pay, great name on resume, great coworkers ",
+			"pros": "Pay is unbelievable at Netflix and so is the brand name for your resume.  Coworkers are all smart and hard working. Definitely no jerk peers.",
+			"cons": "Career development is questionable.  It is difficult to move around.  VPs sometimes invite a dog eat dog environment.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T*********  Finance - Feb 5, 2021 "
+		},
+		"189": {
+			"rating": "4.0",
+			"desc": " Great place to work overall ",
+			"pros": "Culture is unique, very open, freedom and responsibility, context over control. Good pay.",
+			"cons": "Lack of career growth, management opportunity, mobility, interesting product lines",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t*******  Engineer - Feb 3, 2021 "
+		},
+		"190": {
+			"rating": "5.0",
+			"desc": " Good engineering, solid team leaders, fair comp, good culture ",
+			"pros": "If you like the culture it\u2019s a great place. Teammates are mature yet fun to be with. Other FANGs have many more inexperienced employees. Leading industry but still feels like a smaller company than F, G. ",
+			"cons": "Hard to see a path towards managerial responsibilities. F&R may not be for everyone.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  S*****  Senior Software Engineer - Feb 2, 2021 "
+		},
+		"191": {
+			"rating": "5.0",
+			"desc": " Great culture ",
+			"pros": "Best culture I have ever encountered. People are honest and candid.",
+			"cons": "Less explicit emphasize on career growth as there are no levels.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  w*****  Senior Software Engineer - Jan 30, 2021 "
+		},
+		"192": {
+			"rating": "5.0",
+			"desc": " It\u2019s a great company with unique culture ",
+			"pros": "The company is literally the culture deck. Very smart, highly aligned people work here. Some may say it lacks career growth but as an IC I still see lots of area to grow and expand influence. The TC is amazing. Company won\u2019t lowball you. The peers are great.",
+			"cons": "It\u2019s not for everyone, esp the rest and vesters. Depends a lot on your manager. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u*********  Engineer - Jan 28, 2021 "
+		},
+		"193": {
+			"rating": "5.0",
+			"desc": " Great people, great culture ",
+			"pros": "Management are generally dedicated to being good managers. The culture encourages lots of freedom to try things. The environment is high performance but doesn\u2019t require grind hours.",
+			"cons": "Some people may feel like they do not get as much growth opportunities as they would at other places.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  u*****  Engineering Manager - Jan 22, 2021 "
+		},
+		"194": {
+			"rating": "3.0",
+			"desc": " Manager Dominance ",
+			"pros": "Great place to learn and work for new grads. Awesome colleagues to work with.",
+			"cons": "Life can be hard if things don't work out with manager.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  Y*****  Senior Data Scientist - Jan 19, 2021 "
+		},
+		"195": {
+			"rating": "5.0",
+			"desc": " Amazing place  ",
+			"pros": "Geeat place to work in with great work life balance ",
+			"cons": "Less opportunities for career growth specifically into management roles. Overall employees have to manage their own growth ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Senior Data Engineer - Jan 14, 2021 "
+		},
+		"196": {
+			"rating": "5.0",
+			"desc": " Awesome ",
+			"pros": "Awesome culture here at Netflix as everyone knows it, I\u2019m really loving it ",
+			"cons": "None, Netflix is pretty good, I can\u2019t find any con, keep it up",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*****  Engineer - Jan 12, 2021 "
+		},
+		"197": {
+			"rating": "4.0",
+			"desc": " Not what it used to be ",
+			"pros": "- Cash compensation- Somewhat more nimble than other companies with a similar size- Name on resume",
+			"cons": "- Fading culture/becoming more bureaucratic- Mediocre middle management (managers/directors)- Harder to move fast as the company grows",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  N*****  Machine Learning Engineer - Jan 9, 2021 "
+		},
+		"198": {
+			"rating": "5.0",
+			"desc": " Great workplace ",
+			"pros": "Great peers and benefits. Easily the best work experience I've ever had",
+			"cons": "Limited opportunity for title promotion. That said, you can take on more responsibility within your role, and see an increase in salary",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*****  Manager, Creative Services - Jan 9, 2021 "
+		},
+		"199": {
+			"rating": "4.0",
+			"desc": " Great for self starters ",
+			"pros": "Lots of autonomy and self determination, lots of cash money, lots of vacation time if you choose to take it",
+			"cons": "No career progression for most of us, projects are rarely ambitious and large scale",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  v*****  Senior Data Scientist - Jan 4, 2021 "
+		},
+		"200": {
+			"rating": "4.0",
+			"desc": " Unique Culture - You need to fit in though ",
+			"pros": "Experience varies by team, I have a good experience so far( its been 8 months). Freedom to work on your projects and very less hurdles to fight for before executing a project. Lot of freedom for engineers but should own the responsibility. ",
+			"cons": "Career growth for engineers is limited to none. While its con for many I personally think this cuts the mental hurdle for some engineers and let them focus on working on projects. All cash comp has less upside in tech world(some prefer it though). Body shaming when fired, that is ridiculous. Why do we have to send a company wide email?? There is a fear culture because your career here depends on the whims of your manager. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  K****  Senior Software Back End Engineer - Dec 29, 2020 "
+		},
+		"201": {
+			"rating": "4.0",
+			"desc": " Great pay and benefits, not much career growth ",
+			"pros": "If you want to be an IC and make a lot of money look no further Netflix hands down the best place to be. Lots of freedom and ownership",
+			"cons": "If you are looking to climb ladder to senior IC or  management Netflix is not the place.People abuse the freedom more often than desired.  ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m******  Senior Software Engineer - Dec 29, 2020 "
+		},
+		"202": {
+			"rating": "5.0",
+			"desc": " Great comp, WLB and culture ",
+			"pros": "Great WLB if you are good at what you do, great compensation, really good culture if you are trying to grow and constructive feedback doesn\u2019t make you defensive.",
+			"cons": "If you are not impactful, or don\u2019t work efficiently, you can be let go. Not much career growth as company is relatively small.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  a****  Senior Data Scientist - Dec 28, 2020 "
+		},
+		"203": {
+			"rating": "5.0",
+			"desc": " Great work life balance, great pay ",
+			"pros": "Great colleagues and awesome work life balance. Top of market pay.",
+			"cons": "Need to be top performer all the time. Sports team culture",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b*********  Software Back End Engineer - Dec 24, 2020 "
+		},
+		"204": {
+			"rating": "5.0",
+			"desc": " Great compensation, low growth opportunity ",
+			"pros": "Culture is great, not like how ppl think. And of course the compensation is great.",
+			"cons": "Growth is low, you only get promoted due to availability, not due to performance.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D*****  Product Manager - Dec 24, 2020 "
+		},
+		"205": {
+			"rating": "5.0",
+			"desc": " There is no other company like Netflix  ",
+			"pros": "Amazing comp! Awesome colleagues! Great career growth. Man best thing ever to get to join and work here.",
+			"cons": "Absolutely nothing. So I\u2019m going to fill some words for the sake of minimum",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  L*****  Software Engineer - Dec 21, 2020 "
+		},
+		"206": {
+			"rating": "4.0",
+			"desc": " Frequent middle management change ",
+			"pros": "Stunning colleagues, freedom and responsibility, not tied to process as much as other companies",
+			"cons": "Colleagues fired frequently, middle managers are also frequently fired, culture changing, HR not transparent (always trying to pull a fast one)",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  R*****  Project Manager - Dec 19, 2020 "
+		},
+		"207": {
+			"rating": "5.0",
+			"desc": " Lives up to the culture ",
+			"pros": "Great compensation, benefits and wlb. World class food. Friendly front desk",
+			"cons": "Culture is not for everyone. Fear of days being numbered ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t********  Senior Engineer - Dec 18, 2020 "
+		},
+		"208": {
+			"rating": "5.0",
+			"desc": " Best FAANG ",
+			"pros": "Great coworkers, interesting work, and still feels like a small company.",
+			"cons": "No clear path to management. If management is not your goal, not really a con.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  G*****  Senior Software Engineer - Dec 10, 2020 "
+		},
+		"209": {
+			"rating": "4.0",
+			"desc": " Great benefits ",
+			"pros": "Great compensation! Smart people. Lots of experience skills to match.",
+			"cons": "Many cooks in kitchen. Lots of leaders with lots of ideas.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h****  Technical Advisor - Dec 10, 2020 "
+		},
+		"210": {
+			"rating": "5.0",
+			"desc": " One of the best companies that I have worked at ",
+			"pros": "+ Company culture+ Senior Leadership+ Brand and Product+ Talent density",
+			"cons": "- Unclear career growth- Managers have a lot of freedom",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  Q*****  Engineering Manager - Dec 3, 2020 "
+		},
+		"211": {
+			"rating": "5.0",
+			"desc": " Great culture and people  ",
+			"pros": "Great people to work withInnovative Freedom and responsibility Transparent Great benefit All cash offer",
+			"cons": "Have not found one yet Some people may feel kind of fear from letting go letter",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T*****  Software Engineer - Dec 3, 2020 "
+		},
+		"212": {
+			"rating": "3.0",
+			"desc": " Good money, total unpredictability  ",
+			"pros": "Money and perks, get to know what\u2019s happening on the TV shows front. ",
+			"cons": "You are completely at the whim of your manager. No career growth. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h*******  Senior Software Engineer - Dec 1, 2020 "
+		},
+		"213": {
+			"rating": "5.0",
+			"desc": " Great company ",
+			"pros": "It's exactly as advertised:- Good compensation and benefits- Smart motivated team members- Great technology, tons to learn",
+			"cons": "- It's a flat org, no growth prospects as such, if you plan to be an IC forever, it's a great company.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  C*****  Senior Software Engineer - Nov 29, 2020 "
+		},
+		"214": {
+			"rating": "4.0",
+			"desc": " Not what it used to be  ",
+			"pros": "Excellent pay, wonderful colleagues, engaging work, great opportunities to advance your career and network.",
+			"cons": "It's increasingly hard to find any remnants of the famous culture that made Netflix stand out in the industry back in the day. For years we've been slowly turning into a traditional studio where growth depends more on who you're friends with rather than how good you are at your job. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  F*****  Creative Strategy Manager - Nov 24, 2020 "
+		},
+		"215": {
+			"rating": "4.0",
+			"desc": " Very positive culture, not great if you wanna do the best work of your life ",
+			"pros": "Very low stressSuper friendly and respectful colleagues and management Lots of latitude to work on different projects and explore ideas ",
+			"cons": "IC level growth is unclear and performance is not measured so can get away with just building shiny things and doing fancy presentations on work that may not have a lot of substance/impactAlso people are generally older, mostly comfortable, and don\u2019t have a lot of drive/motivation to work very hard so not the best place for hyper growth and learning in my experience ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  o*****  Machine Learning Engineer - Nov 20, 2020 "
+		},
+		"216": {
+			"rating": "5.0",
+			"desc": " Great company! ",
+			"pros": "The pay is top of the market, and you always feel the push to improve",
+			"cons": "It is only older folks that live and work in the Los Gatos office; I assume it is hard to establish a culture given how they do not take new grads/inexperienced candidates",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  E*****  Software Engineer - Nov 15, 2020 "
+		},
+		"217": {
+			"rating": "5.0",
+			"desc": " Been here for a month, love it so far ",
+			"pros": "Awesome colleagues, amazing compensation, everyone is very helpful and welcoming. I am writing more words so that blind lets me submit it ",
+			"cons": "I came from a very low paced environment and here everyone seams to be going at a very fast pace.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  S*****  Machine Learning Engineer - Nov 10, 2020 "
+		},
+		"218": {
+			"rating": "3.0",
+			"desc": " All cash comp ",
+			"pros": "Top of market pay, stunning colleagues, and fun industry make for a great work environment",
+			"cons": "High stress, can truly be fired at ANY time for ANY reason. Hard to makes friends and build relationships since everyone is worried that they will be fired.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b*******  Senior UX Researcher - Nov 9, 2020 "
+		},
+		"219": {
+			"rating": "4.0",
+			"desc": " Great product, poor management  ",
+			"pros": "* awesome colleagues* potential for impactful work* money is never an issue for the company; will happily blow any other offer out of the water if they want you * ",
+			"cons": "* questionable middle management* fights over scope/territory frequent * culture is less tech, more entertainment now* data science moving to become a service org over time",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*******  Senior Scientist - Nov 9, 2020 "
+		},
+		"220": {
+			"rating": "3.0",
+			"desc": " Good cash no growth  ",
+			"pros": "Cash is superb. Facilities are awesome. Free food and great perks.",
+			"cons": "No growth for ICs. Hire and fire culture. Management is mediocre.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t*********  Senior Software Engineer - Nov 5, 2020 "
+		},
+		"221": {
+			"rating": "5.0",
+			"desc": " Great culture  ",
+			"pros": "No micromanagementGreat cultureTop of market compLots of growth and opportunity Really live the valuesBeautiful balance between tech and creative culture ",
+			"cons": "Fear of getting let go real, especially for managersChange is the only constant. Your role a year for now will not be what you were hired for",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D*****  Analytics Engineer - Nov 3, 2020 "
+		},
+		"222": {
+			"rating": "4.0",
+			"desc": " Great place to spend a couple of years, earn well and grow CV ",
+			"pros": "- Comp- Part of industry defining market leader- CV booster- Smart, humble people- Freedom & Responsibility",
+			"cons": "- Little too much culture cool aid- Frequent people swirl- Freedom & Responsibility can result in lack of alignment",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Research Director - Oct 26, 2020 "
+		},
+		"223": {
+			"rating": "5.0",
+			"desc": " Great, but career growth is unpredictable. ",
+			"pros": "- No BS culture - encouraged to call out when something doesn't make sense.- high bar for clarity of communication and crispness of strategy.- Amazing room for impact, if you care about the mission (entertaining the world).- high leverage of every individual: no elbowing to work on projects.",
+			"cons": "- no predictable route to career growth. Comp will grow, your skillets and influence will grow, but hard to guarantee anything beyond that.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Audio DSP Engineer - Oct 23, 2020 "
+		},
+		"224": {
+			"rating": "5.0",
+			"desc": " No where else you get paid as much for as little work ",
+			"pros": "The comp, freedom, lake of micromanagement, colleagues, larger individual impact due to smaller team and of course culture.",
+			"cons": "The culture of candor is dying a slow death and the HR becoming more like any other company. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c******  Senior Software Engineer - Oct 21, 2020 "
+		},
+		"225": {
+			"rating": "2.0",
+			"desc": " Do your time, learn, then get out ",
+			"pros": "Due to the flat hierarchy, there\u2019s plenty of room to grow in your field and expand your skill sets and responsibilities.",
+			"cons": "The culture has gone downhill. After four years I realized it\u2019s not the company I first joined. Managers make terrible hiring decisions, the wrong people are kept around due to being tenured in by managers and there is a practice of control over context. I would enjoy the benefits while you have them, meet your financial goals and get out.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c******  Product Designer - Oct 21, 2020 "
+		},
+		"226": {
+			"rating": "5.0",
+			"desc": " I love it here ",
+			"pros": "I love the culture here. There isn't the bureaucracy here that I have experienced at other companies and it's truly about the results/impact you can bring. The compensation is truly top of market and I love how open you can be about your pay and what you can get outside the company which usually results in an increase in your own pay. ",
+			"cons": "Haven't found any cons yet, but I'm interested in seeing when my TC will stop rising for what I do. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Marketing Manager - Oct 19, 2020 "
+		},
+		"227": {
+			"rating": "4.0",
+			"desc": " You will do your best work ",
+			"pros": "Extremely competitive salaries, great benefits, stock options, very smart people, great content, great product. ",
+			"cons": "High volume of work and higher expectations, which can be great but leads to burnout. Inconsistent strategies from leadership, frequent re-orgs, and company politics are tough to manage.  ",
+			"resignation reason": "I left for another opportunity to expand my skill set and try for better work/life balance. ",
+			"authorInfo": "Verified User  Former Employee  h****  Marketing Director - Oct 16, 2020 "
+		},
+		"228": {
+			"rating": "4.0",
+			"desc": " Intersting projects ",
+			"pros": "People are niceGood WlbGood compensationSupportive team members",
+			"cons": "Too many meetingsSometimes on call may seem too much",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  A*****  Software Engineer - Oct 15, 2020 "
+		},
+		"229": {
+			"rating": "3.0",
+			"desc": " Team matters ",
+			"pros": "Work life balanceGood compNice officeNo micromanaging Healthy culture",
+			"cons": "Culture is about to change soonTeam mattersNothing more",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  x*****  Senior Software Engineer - Oct 14, 2020 "
+		},
+		"230": {
+			"rating": "5.0",
+			"desc": " Great company ",
+			"pros": "Culture, WLB, engineering, compensation, freedom, trust, maturity, research, onboarding experience",
+			"cons": "Location in Los Gatos might cause some commuting issues, but shuttle available",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  j*****  Software Engineer - Oct 12, 2020 "
+		},
+		"231": {
+			"rating": "5.0",
+			"desc": " Great culture ",
+			"pros": "Great Culture, great pay, stunning colleagues, excellent wlb, huge potential for impact. ",
+			"cons": "Almost no cons apart from lack of growth which might be ok for some",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  x**  Applied Researcher - Oct 9, 2020 "
+		},
+		"232": {
+			"rating": "4.0",
+			"desc": " Great culture and great product  ",
+			"pros": "Amazing colleagues, results oriented product development, compensation, challenging problems, great business model ",
+			"cons": "IC growth and leadership churn which can lead to program interruption ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c*****  Technical Product Manager - Oct 8, 2020 "
+		},
+		"233": {
+			"rating": "4.0",
+			"desc": " Doesn\u2019t always get it right but mostly does ",
+			"pros": "Great work/life balance* once you establish yourself and gain confidence you are sufficiently valuable. When I started, I felt the need to self-impose more hours to get acclimated and deep dive in relevant areas, to make sure I was up to speed. Getting thrown into meetings without context requires a sink or swim mentality, at least for me, so that made my first few months subconsciously more stressful. However, in hindsight it was probably more paranoia due to my external impressions prior to joining, and would have done just fine if I took things a little easier. Everyone is generally pleasant to work with, just make sure you establish yourself by being valuable to one person or another. Respect is earned, but worth it, especially during meetings when alpha culture can sometimes get pretty lively.",
+			"cons": "Some managers are clearly better than others, in terms of technical capabilities and people skills. Being in the wrong team may be perilous to one\u2019s career trajectory if the manager does not advocate for the team effectively. I\u2019ve been fortunate not to be in those situations but have seen others feel very insecure or micromanaged due to manager/IC dynamics.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f********  Senior Software Architect - Oct 8, 2020 "
+		},
+		"234": {
+			"rating": "4.0",
+			"desc": " Top-of-Market Compensation, great colleagues, difficult career growth ",
+			"pros": "-Top-of-Market ALL cash comp-Option to convert salary to 10-year stock options-Decent benefits and perks-Great colleagues-High amount of autonomy-Fun work environment and projects-Innovative, creative, and open to new ideas",
+			"cons": "-Survival of the fittest culture. Be ready to be let go at ANY time for ANY reason-Beware of weaponized culture-High-anxiety work envronments with a lot of cliques-Colleagues always feel like they are constantly fighting for survival -Your experience will be HIGHLY dependent on your team and Director. Get a bad manager and you might be in for a bad time-Company restructuring every 6 months (pro and con)-Some teams are rife with politics",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  P*******  Senior UX Researcher - Oct 4, 2020 "
+		},
+		"235": {
+			"rating": "4.0",
+			"desc": " Cash compensation ",
+			"pros": "Full cash compensation.Good food and snacks.Employees are taken care of well.",
+			"cons": "No career growth.Lots of middle management in recent years have sucked the vibrant culture out.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  f*****  Senior Software Engineer - Sep 26, 2020 "
+		},
+		"236": {
+			"rating": "5.0",
+			"desc": " Great place if it is your style ",
+			"pros": "Great pay, stunning colleague, interesting project, work life balance is good once you fully ramped up and find your way to navigate things around. If things don\u2019t work out and you are fired you get decent severance. ",
+			"cons": "It\u2019s true you won\u2019t get much exposure on management skills because the company\u2019s business model is fairly stable. Your manager has absolute power. For inexperienced manager this is terrible. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  0*******  Engineer - Sep 25, 2020 "
+		},
+		"237": {
+			"rating": "5.0",
+			"desc": " Best company I've worked for. ",
+			"pros": "Great colleagues, strong leadership, transparent culture, challenging work make this a great place to work.",
+			"cons": "Performance culture makes work / life balance difficult at times. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  d*****  Produce Manager - Sep 25, 2020 "
+		},
+		"238": {
+			"rating": "4.0",
+			"desc": " great work life balance ",
+			"pros": "great work life balance and compensation, and lunch, no policy",
+			"cons": "No personal growth, some tech stack is old and not keeping up with open source world",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Senior Software Engineer - Sep 23, 2020 "
+		},
+		"239": {
+			"rating": "4.0",
+			"desc": " Love the culture  ",
+			"pros": "Love the cultureGreat people to work with Great compensation Great work life balance ",
+			"cons": "Have had bad luck with my manager. Not too much more ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  E*****  Senior Software Engineer - Sep 22, 2020 "
+		},
+		"240": {
+			"rating": "4.0",
+			"desc": " With great pay comes great responsibility  ",
+			"pros": "Pays great ! Of course it\u2019s fun to work for Netflix. You\u2019re automatically popular between friends ",
+			"cons": "Middle management has so much power. No real metrics on performance...if you\u2019re not amazing then expect to be let go at anytime even if multiple other team members are just as not amazing as you are. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  M*****  Senior Software Engineer - Sep 22, 2020 "
+		},
+		"241": {
+			"rating": "4.0",
+			"desc": " Doesn\u2019t always live up to culture, especially when people play the cards right for their own personal growth and benefit ",
+			"pros": "Work life balance. Competitive benefits. Culture (most of the time)",
+			"cons": "Growth opportunities for ICs is abysmal and non existent often (a lot depends on your mgr and her/his vision for the team). Culture is suffering, often due to the growth of the company. There has been so much change that has mostly brought insecurity amongst peers. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h*****  Marketing Campaign Manager - Sep 21, 2020 "
+		},
+		"242": {
+			"rating": "4.0",
+			"desc": " Great comp, wlb and comp, bad career growth For ic ",
+			"pros": "CompBenefits is actually good401k match better than most ",
+			"cons": "Not much career growth for ics, comp is no necessarily top of you\u2019re at level 6 or above ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p**  Software Engineer - Sep 18, 2020 "
+		},
+		"243": {
+			"rating": "5.0",
+			"desc": " Good company ",
+			"pros": "Good compensation and work life balance. Also the flat structure is good.",
+			"cons": "I don\u2019t see any clear cons. I pretty much enjoy everything here.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Software Engineer - Sep 18, 2020 "
+		},
+		"244": {
+			"rating": "4.0",
+			"desc": " Double edged sword ",
+			"pros": "Depending on the team you join, you\u2019ll do some of the best work of your life as an IC",
+			"cons": "Career growth like many things is something to be figured out. No one will coach you. Fire fast culture is real and it\u2019s hard to believe leadership when they say it\u2019s okay to give yourself breaks because you fear being fired for not trying hard enough. Requires discernment to walk the double edged sword rightly.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  U*********  Product Designer - Sep 18, 2020 "
+		},
+		"245": {
+			"rating": "5.0",
+			"desc": " Awesome! ",
+			"pros": "No complaints. Great place to work and lots of growth.",
+			"cons": "Increasingly thought as a entertainment company instead of tech company.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r*******  Operation Analyst - Sep 17, 2020 "
+		},
+		"246": {
+			"rating": "5.0",
+			"desc": " Not for everyone ",
+			"pros": "Chance to work with stunning colleagues, usually top of market compensation",
+			"cons": "Limited opportunity for IC growth, highly variable circumstances for job security",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n******  Senior Data Scientist - Sep 16, 2020 "
+		},
+		"247": {
+			"rating": "5.0",
+			"desc": " Best professional experience I've ever had! ",
+			"pros": "*I'm in a non-tech position*- I love my manager and find that managers in my world are very supportive and communicative- Extremely competitive compensation and benefits- Feedback culture is real - you will get a lot of direct/candid feedback both positive and constructive and are frequently asked to share feedback with your peers, business partners, and leaders- Co-workers are awesome - truly interested in helping and generous with their calendars. A lot of really smart people to learn from",
+			"cons": "- Can be stressful and intense at times- It's not a 9-5 job whatsoever - can be hard to completely disconnect even when out of office. But I also think it's because we hire Type A folks who want to be plugged in all the time.- CONSTANT change - need to be comfortable with ambiguity and things changing frequently. - Freedom & Responsibility culture is great, but can lead to inconsistency in process",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  D********  Talent Acquisition - Sep 14, 2020 "
+		},
+		"248": {
+			"rating": "4.0",
+			"desc": " Not what it used to be ",
+			"pros": "Tech talent. If you are motivated, you\u2019ll learn a lot about distributed systems and operating at scale in AWS",
+			"cons": "Management is clueless at times. No WLB, and culture is very team dependent. Churn can be high at times and creates downward spiral for teams involved",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  U*****  Engineering Manager - Sep 12, 2020 "
+		},
+		"249": {
+			"rating": "5.0",
+			"desc": " Come for the culture ",
+			"pros": "The culture is the most amazing part. You have to develop a thick skin. Comp is fantastic and work/tech exciting.",
+			"cons": "No sitting on your laurels. Be ready to be fired at all times, no matter what you feel.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  J*****  Software Development Manager - Sep 11, 2020 "
+		},
+		"250": {
+			"rating": "4.0",
+			"desc": " It\u2019s a media company  ",
+			"pros": "Great pay and benefits, love hate relationship with F&R. Good to experience how it\u2019s like to work in such a unique company. If joining a cool media company ia your dream, go for it!",
+			"cons": "For tech folks, growth is relatively limited compared to other FAANG. The scale of things you build is fairly limited too, with some exceptions of course. You always need to be prepared to leave the company, even if you are good at what you do. Your skills may no longer be needed. Or someone else is better than you (at least that is what your boss thinks) and there is only one spot. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  m*****  Engineering Manager - Sep 9, 2020 "
+		},
+		"251": {
+			"rating": "5.0",
+			"desc": " great company ",
+			"pros": "great managementamazing culturepopular productall hype true",
+			"cons": "none now - hope it lasts - harder in a big company",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y*****  Analyst I, Business Support and Analytics - Sep 9, 2020 "
+		},
+		"252": {
+			"rating": "5.0",
+			"desc": " Lots of fun & challenge for senior engineers ",
+			"pros": "- Smaller headcount (engineers) than other FANG companies, so easier to make impact.- Relatively modern infrastructure (AWS).- Freedom & Responsibility is real.- No-nonsense technical culture.- Smart colleagues.- Great compensation.",
+			"cons": "- Can feel intense.- Not much hand-holding by managers (if you want/need it).- Company has one product (may be a pro or a con, depending on your point of view)",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  T*****  Software Engineer - Sep 3, 2020 "
+		},
+		"253": {
+			"rating": "5.0",
+			"desc": " Great company! ",
+			"pros": "- Great comp and benefits- Fun product and industry - Most people are great to work with- Big tech  but still small compared to others- Great flexibility in all aspects- Very open communication- can be easy to get stuff done",
+			"cons": "-Scope can be small-More B players than you might expect",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h*****  Engineering Manager - Sep 1, 2020 "
+		},
+		"254": {
+			"rating": "5.0",
+			"desc": " Great place to work with stunning collleagues ",
+			"pros": "Freedom, high comp, sunning colleagues, culture, engineering leadership, open sources projects",
+			"cons": "Unclear career growth path,  less visibility from outside of the company due to lack of the title",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p******  Senior Software Developer - Aug 29, 2020 "
+		},
+		"255": {
+			"rating": "4.0",
+			"desc": " High pay, competent colleagues  ",
+			"pros": "Great pay, cool product and people you work with are smart ",
+			"cons": "Starting to see some politics but it\u2019s still less than other studios ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p********  Manager, Business Operations - Aug 27, 2020 "
+		},
+		"256": {
+			"rating": "5.0",
+			"desc": " Endless Growth Opportunities ",
+			"pros": "Having a great manager definitely helps, but I feel my career has grown exponentially since I joined. I feel challenged and championed. ",
+			"cons": "Work life balance is next to nonexistent. F&R is a pro and a con. Chaotic at times. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  0**  Risk Analyst - Aug 26, 2020 "
+		},
+		"257": {
+			"rating": "5.0",
+			"desc": " Satisfied Employee ",
+			"pros": "Freedom & ResponsibilityGood paySmart PeopleWork Impact Satisfaction",
+			"cons": "Stressful at timesLot of context switching - specific to a role",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  a***  Senior Software Engineer - Aug 26, 2020 "
+		},
+		"258": {
+			"rating": "4.0",
+			"desc": " Okay but depends on team ",
+			"pros": "Compensation is good. Leadership is solid. Free food. Unlimited pto. ",
+			"cons": "Stressful, too much time wasted on D&I stuff. They should just hire the best. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  r***  Finance - Aug 20, 2020 "
+		},
+		"259": {
+			"rating": "5.0",
+			"desc": " Good company. Great Culture. Good problems to work.  ",
+			"pros": "Great CultureMarket CompensationFlexibility Common sense based executive leadership ",
+			"cons": "Becoming too big Big company problemsSome pockets very top down, political. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  p*****  Engineer - Aug 19, 2020 "
+		},
+		"260": {
+			"rating": "5.0",
+			"desc": " Hard to beat. ",
+			"pros": "The person who thrives at Netflix: you don't need pats on the back for good work, you have confidence that you're delivering. Praise isn't widely given here, feedback sure is. Another type of person who thrives here: you find problems and you solve them, you don't wait for orders from others. Hard to beat the work life balance here. ",
+			"cons": "Each year you start to shed the fear of being fired. You start to see the pattern of people who do get fired and you get more comfortable in your standing. But you do fear it for awhile.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  g*******  Engineer - Aug 18, 2020 "
+		},
+		"261": {
+			"rating": "5.0",
+			"desc": " Love it here ",
+			"pros": "Great compensation, smart company, smart people. Pretty straightforward business model. Relatively chill. Love it here.",
+			"cons": "Only downsides are (a) lack of career growth, (b) lack of skills growth, and (c) it's a TV company.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  t********  Senior Data Scientist - Aug 18, 2020 "
+		},
+		"262": {
+			"rating": "5.0",
+			"desc": " Freedom and Resposibility is real ",
+			"pros": "Great people and minimum barriers for getting done what tou need.Very little strong arming from management.",
+			"cons": "Firing is frequent, random and rampant. Vague direction from Directors and above. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  e****  UI Designer II - Aug 16, 2020 "
+		},
+		"263": {
+			"rating": "4.0",
+			"desc": " great with small room for improvement ",
+			"pros": "top of market compensation and benefitsgood employeesgood culture",
+			"cons": "some small pockets of unhealthy politics which makes work unnecessarily harder",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  z*****  Engineer - Aug 16, 2020 "
+		},
+		"264": {
+			"rating": "5.0",
+			"desc": " Freedom and responsibility rocks ",
+			"pros": "If you are skilled, you will love it at Netflix",
+			"cons": "If you suck, you will be very stressed out coming here",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  H*****  Senior Software Engineer - Aug 13, 2020 "
+		},
+		"265": {
+			"rating": "3.0",
+			"desc": " A solid 3 out of 5 ",
+			"pros": "cash, people, LG office, perks, benefits, expense policy, Reed as ceo",
+			"cons": "grind, projects, wlb, fire-fast middle management, no F&R if you are an IC, no career growth for ICs, politics from LA to the BAY, DSE, some orgs are shit, some are dream teams",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  n***  Software Engineer - Aug 10, 2020 "
+		},
+		"266": {
+			"rating": "5.0",
+			"desc": " Love working here but YMMV depending on team ",
+			"pros": "Netflix has a very different culture (yes, the memo is fairly accurate) which I actually like and it matches my values for the most part. There is no fire quick culture that I have seen; they are a bit more open about it but I have not noticed a hugely increased churn at the individual contributor level. Compensation is great and the recent COVID episode has shown that the company cares about their employees.",
+			"cons": "Your experience at Netflix is highly dependent on your team. Since there is a very strong emphasis on doing what is best for Netflix without explicitly defining what that is, each team will be slightly different. Unlike Google or Facebook where there is much more process which makes things a bit more similar, at Netflix you are more at the mercy of your manager which can make things bad for you id you have a crappy manager.There are also fewer things to work on than in a company like Google but if you find something interesting to do at Netflix, it is a great place. Finally, since there really isn't any level, career growth is more elusive to track. This is particularly true for ICs where there is no real defined growth path. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b*****  Senior Software Engineer - Aug 10, 2020 "
+		},
+		"267": {
+			"rating": "5.0",
+			"desc": " great culture, amazing comp ",
+			"pros": "netflix has a great culture and amazing top of the market comp",
+			"cons": "netlix could have better work life balance and IC career growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h******  Senior Data Engineer - Aug 10, 2020 "
+		},
+		"268": {
+			"rating": "5.0",
+			"desc": " awesome place to work  ",
+			"pros": "- freedom- talented people- good WLB- have big impact across teams/orgs- massive growth in future years ",
+			"cons": "- people come and go sometimes. with that said the rate of firing isnt higher than other companies ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  1********  Senior Software Engineer - Aug 9, 2020 "
+		},
+		"269": {
+			"rating": "4.0",
+			"desc": " Decent pay with good WLB ",
+			"pros": "People around me are all senior and make sense. Pace is not too fast nor too slow.",
+			"cons": "Scope is smaller than where I worked before. No levels can both be good and bad.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  x****  Senior Software Engineer - Platform - Aug 9, 2020 "
+		},
+		"270": {
+			"rating": "4.0",
+			"desc": " Great place to work ",
+			"pros": "Working on projects from inception to completion owning all phases involved in the processFreedom and Responsibility culture",
+			"cons": "Tough to find similar working environments in other companies when you decide to move",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s*****  Senior Software Engineer - Aug 8, 2020 "
+		},
+		"271": {
+			"rating": "5.0",
+			"desc": " laser focus ",
+			"pros": "great compensationcompany wide focuscontext sharinglight management with ICs",
+			"cons": "hard to move to new directioninnovation is hard to get recognized",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  b***  Senior Software Engineer - Aug 8, 2020 "
+		},
+		"272": {
+			"rating": "4.0",
+			"desc": " great benefits ",
+			"pros": "top of market pay with freedom to work with minimal oversight",
+			"cons": "with a single level for all engineers, its hard to to hsve visible growth",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  s*****  Senior Software Engineer - Aug 8, 2020 "
+		},
+		"273": {
+			"rating": "3.0",
+			"desc": " No growth for ICs, mediocre management, tons of internal politics, toxic managers. Work is not interesting.  ",
+			"pros": "Great benefits. tons of freedom to make decisions. Flexible working ",
+			"cons": "Toxic managers, frequent reorgs, leadership lacks vision, Netflix is not launching any tech features and feels stagnant",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  3***  Senior Software Engineer - Aug 8, 2020 "
+		},
+		"274": {
+			"rating": "5.0",
+			"desc": " Most comfortable role in my life ",
+			"pros": "Great, all cash payEasy to change teams and move from Bay Area to LAThe median colleague much better than the other FANG ",
+			"cons": "No growth for ICs whatsoever, no levels make next job harder to get",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  q*****  Data Scientist - Aug 8, 2020 "
+		},
+		"275": {
+			"rating": "5.0",
+			"desc": " Great place for high performers ",
+			"pros": "Lots of freedom and ownership in work. Sharp coworkers around you.",
+			"cons": "Limited career growth beyond the role you were hired for",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  W*****  Senior Software Engineer - Aug 8, 2020 "
+		},
+		"276": {
+			"rating": "5.0",
+			"desc": " Great place to build stuff ",
+			"pros": "Lots of freedom. Great coworkers. Generally a good engineering environment with very efficient people.  ",
+			"cons": "Limited career growth for engineers. Need to always stay in the game no resting and vesting. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  \ud83c\udfa5**********  Software Engineer - Aug 7, 2020 "
+		},
+		"277": {
+			"rating": "4.0",
+			"desc": " You may like it or hate it ",
+			"pros": "Smart colleagues, good pay, great benefits and mostly meaningful work",
+			"cons": "You may be worried about your job some times ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  h******  Senior Software Engineer - Aug 3, 2020 "
+		},
+		"278": {
+			"rating": "5.0",
+			"desc": " Weird, Challenging, and Rewarding ",
+			"pros": "Top of market pay, challenging problems to solve, and no pressure to overwork yourself",
+			"cons": "Advancement is all upon yourself, you must be a solid contributor and politician in order to advance",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  W****  Senior Software Engineer - Jul 19, 2020 "
+		},
+		"279": {
+			"rating": "3.0",
+			"desc": " Big salaries for toxic culture ",
+			"pros": "You'll get paid a lot more than you would elsewhere. Everything in terms of benefits, equipment, etc is a step above other companies. They're not scared to invest.",
+			"cons": "You can get fired at anytime. It might depend on the team you're on but I would say the org as a whole has a pretty bad culture. You'll deal with some politics.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  k*******  Senior Software Engineer - May 28, 2020 "
+		},
+		"280": {
+			"rating": "3.0",
+			"desc": " Generally a good company ",
+			"pros": "Lots of pros, exposure to a lot of different departments, good benefits, free netflix",
+			"cons": "No upward mobility, no promotions, glass ceiling stopping you from getting to the top, some people are really annoying to work with,",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  i******  Operations Manager - May 28, 2020 "
+		},
+		"281": {
+			"rating": "5.0",
+			"desc": " Great for recruiters ",
+			"pros": "It's an popular brand that's in-demand at the moment. You get to source some of the best talent in the industry. I've met some very talented individuals.",
+			"cons": "It's a high performance team. The primary goal is to find the best talent rather than filling the role itself. Sometimes it can take a while. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c*****  Talent Acquisition Manager - May 27, 2020 "
+		},
+		"282": {
+			"rating": "1.0",
+			"desc": " Toxic ",
+			"pros": "PayGood benefitsGreat coworkersMost of the people are there because they love the work",
+			"cons": "Long hoursExtremely competitiveIntense lifestylePoliticscliquey teamsDifficult to stay for long",
+			"resignation reason": "Previous company asked me to come back and gave me a great offer",
+			"authorInfo": "Verified User  Former Employee  1********  Operations Manager - May 27, 2020 "
+		},
+		"283": {
+			"rating": "4.0",
+			"desc": " Culture makes it successful ",
+			"pros": "Great people across all deparments. It's all hands on deck. I know the culture gets a lot of flak but everyone is willing to put in work, collaborate and help each other. ",
+			"cons": "There are definitely clashes with other people. Culture can be intense at times. ",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  l****  Marketing Manager - May 27, 2020 "
+		},
+		"284": {
+			"rating": "2.0",
+			"desc": " High risk reward ",
+			"pros": "You'll get paid a lot, get great perks, unlimited pto, good customers, fun projects.",
+			"cons": "You'll probably be let go at some point. Keep that in mind while you work. Milk it out for as long as you can. Unlimited pto is good depending on your manager. Otherwise you probably won't take any vacations.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  y******  Software Engineer - May 25, 2020 "
+		},
+		"285": {
+			"rating": "3.0",
+			"desc": " Take initiative to be successful ",
+			"pros": "Have freedom and responsibility to produce great work. Have to be at the top of your game at all times.",
+			"cons": "Have to love what you do. You can get fired at any time you don't do well.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  6******  Software Engineer - May 25, 2020 "
+		},
+		"286": {
+			"rating": "3.0",
+			"desc": " Great culture but no personal growth ",
+			"pros": "Amazing open and honest culture. Good benefits. Great healthcare plan.",
+			"cons": "Pressure. Tons of pressure. They'll throw work at you. Results-oriented. Not sure how much I grew.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  0*******  Program Manager - May 24, 2020 "
+		},
+		"287": {
+			"rating": "5.0",
+			"desc": " Best company if you're independent ",
+			"pros": "It's a great place if you have ownership of the work assigned to you. You'll be told what to do and why. You'll be given control of what you create and achieve those goals. If you haven't worked with that kind of freedom, you might have to get used to it in the beginning. ",
+			"cons": "Still a fairly new company. Culture isn't really established. Money is great, but gaining seniority is limited.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  c****  Software Engineer - May 21, 2020 "
+		},
+		"288": {
+			"rating": "5.0",
+			"desc": " Proud to be here ",
+			"pros": "Beloved and renowned brand. Fun to work with. Lots of fun shows. Influencing society through entertainment.",
+			"cons": "Culture of fear is there, lack of upward mobility. Burn out.",
+			"resignation reason": "",
+			"authorInfo": "Verified User  Current Employee  w*****  Marketing Manager - May 21, 2020 "
+		}
+	}
+}
