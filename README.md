@@ -68,6 +68,8 @@ git clone git@github.com:HarshCasper/Blind-App-Reviews.git
 
 After a successful clone, you can use the dataset to load the individual CSV/JSON file of a particular company and start the analysis. Alternatively, you can download the ZIP of the entire repository, albeit without the version control available.
 
+You can also use the dataset over [Kaggle](https://www.kaggle.com/datasets/harshcasper/blind-app-company-reviews). Install the Kaggle library using `pip install kaggle` and create a new API token JSON file and save it over `~/.kaggle/` directory. Download the dataset using `kaggle datasets download -d harshcasper/blind-app-company-reviews`.
+
 ## Contributing to the dataset
 
 The scrapper engine used to develop the dataset is currently not open-source. However, it will be open-sourced at a later stage. To contribute to the dataset, you may create an [issue](https://github.com/HarshCasper/Blind-App-Reviews/issues) to request new companies to be added to the dataset or the dataset to be updated for existing companies. At a later stage, you can self-generate new datasets using the scrapper engine and submit patches.
